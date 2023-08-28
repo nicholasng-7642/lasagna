@@ -3,6 +3,7 @@
 Apple	Cupertino CA
 Program Manager	September 2022 - Present
 Data Management Office
+################################################################################################################################################
 • Write executive-level status updates with information collated from scrum leads for cross-track meetings.
 •	Deliver status updates to executives and other senior leaders.
 •	Handle RAID (Risk, Action, Issue, Decision) log creation, maintenance, and follow up with
@@ -28,17 +29,20 @@ Data Management Office
 •	Program Execution and Monitoring: The program manager oversees the execution of various data management initiatives, such as data governance, data integration, data quality management, and master data management. They monitor progress, track performance against targets, and ensure that the program stays on track to achieve its goals.
 •	Communication and Reporting: The program manager communicates program status, progress, and key metrics to stakeholders and senior management. They provide regular updates through reports, presentations, and meetings, keeping stakeholders informed about the program's impact and benefits.
 •	Overall, a program manager for a core data management program plays a crucial role in driving effective data management practices within an organization, ensuring data integrity, enabling data-driven decision-making, and promoting data governance across various business units.
-
+################################################################################################################################################
 
 King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
-• Drove innovative loyalty program enhancements at King, employing diverse engagement and reward strategies to bolster retention of high-value players within the dynamic gaming ecosystem.
-• Directed a globally dispersed, cross-functional team to a triumphant launch of the loyalty site. Collaborated closely with upstream marketing and product teams to establish success benchmarks and program objectives (OKRs). Championed the conceptualization, engineering, and execution of platform enhancements and architecture, facilitating novel reward redemption mechanisms, exclusive offerings, and celebratory player interactions.
+• Drove the loyalty program enhancements at King, implementing diverse engagement and reward strategies to bolster retention of high-value players within the dynamic gaming ecosystem.
+• Led the technical deployment of Kings first loyalty site. Directed the design, development on King's only isolated infrastructure deployment. The application was engineered from the ground up using a different tech stack than the game. 
+
+
+Directed a globally dispersed, cross-functional team to a triumphant launch of the loyalty site. Collaborated closely with upstream marketing and product teams to establish success benchmarks and program objectives (OKRs). Championed the conceptualization, engineering, and execution of platform enhancements and architecture, facilitating novel reward redemption mechanisms, exclusive offerings, and celebratory player interactions.
 • Pioneered the development of an automated dashboard, meticulously tracking OKRs pertaining to customer retention rate, repeat purchase rate, average order value, purchase frequency, redemption rate, and engagement metrics. Leveraged these insights to inform targeted marketing initiatives and strategic feature choices.
-• Achieved remarkable month-over-month outcomes, culminating in a $400K monthly expenditure surge with a 10% upswing, an impressive 70K unique monthly visitors boasting a 20% conversion rate, an outstanding 90% return rate, and a substantial 63K reward redemptions.
+• In limited geographical release, we achieved remarkable month-over-month outcomes, culminating in a $400K monthly expenditure surge with a 10% upswing, an impressive 70K unique monthly visitors boasting a 20% conversion rate, an outstanding 90% return rate, and a substantial 63K reward redemptions.
 
-
+################################################################################################################################################
 •	Customer Retention Rate: This metric measures the percentage of customers who continue to engage with your business over a specific period. A higher retention rate indicates the loyalty program is effective in keeping customers engaged and returning.
 •	Repeat Purchase Rate: This metric calculates the percentage of customers who make repeat purchases. It reflects the loyalty program's ability to drive customer behavior and encourage ongoing transactions.
 •	Average Order Value (AOV): AOV measures the average amount customers spend on each transaction. An effective loyalty program can lead to increased spending per customer as they strive to earn rewards or benefits.
@@ -49,13 +53,14 @@ Royalty VIP and Loyalty Program
 •	Customer Satisfaction: Monitoring customer satisfaction through surveys or feedback can help gauge the program's impact on customer experience. Satisfied customers are more likely to remain loyal and actively participate in the program.
 •	Engagement Metrics: Assessing the level of engagement with the loyalty program, such as the number of active participants, app downloads, or website visits, provides insights into its popularity and overall success.
 •	Cost of Customer Acquisition vs. Retention: Comparing the cost of acquiring new customers with the cost of retaining existing customers can highlight the program's cost-effectiveness. A successful loyalty program should demonstrate that retaining customers is more cost-efficient than constantly acquiring new ones.
+################################################################################################################################################
 
 
 Rally Health	San Francisco CA
 Lead Technical Program Manager	January 2019 – September 2021
 Medicare Fitness product launch
-•	Led the delivery of the RenewActive Medicare fitness program, a flagship initiative in the top ten portfolio of UHC. Through strategic implementation and execution, the program generated an impressive $215M in enrollment revenue during 2020
-•	Led the design, development, and implementation of a cutting-edge multi-platform digital experience. This innovative initiative introduced online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
+•	Led the delivery of the RenewActive Medicare fitness program, a flagship initiative in the top ten portfolio of UHC. Through strategic implementation and execution, the program generated $215M in enrollment revenue during 2020
+•	Led the design, development, and implementation of a multi-platform digital experience. This innovative initiative introduced online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
 •	Launched the MVP platform, granting exclusive access to 12K virtual and live streaming classes from 12 content providers. This transformative measure expanded learning opportunities and maintained health goals during Covid lockdowns for vulnerable members.  
 •	Launched the program’s first digital campaign collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP).  Drove partner promotions, segment testing, GTM activities, and analytic which led to the acquisition of 750K new members.
 Developer advocacy program 
