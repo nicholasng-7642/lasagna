@@ -33,12 +33,10 @@ Data Management Office
 King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
-•	Drove King's loyalty program innovation, implementing diverse engagement and reward strategies to retain high-value players within the gaming ecosystem.
-•	Led a cross functional and cross geographical team to successful loyalty site launch. Engaged with upstream marketing and product teams to define success criteria and program OKRs. Spearheaded engineering design and implementation of platform and architecture to deliver new mechanisms to redeem rewards, sell exclusive rewards, and deliver celebration moments to players. 
-•   Created an automated dashboard to track OKRS around customer retention rate, repeat purchase rate, average order value, purchase frequency, redemption rate, and engagment metrics. These metrics were used to drive marketing campaigns and feature decisions. 
-
-
-including a complete site refresh, new branding, pivoting from a points-based program to a tiered mechanic, rolling out to new markets, and innovative product features.
+• Drove innovative loyalty program enhancements at King, employing diverse engagement and reward strategies to bolster retention of high-value players within the dynamic gaming ecosystem.
+• Directed a globally dispersed, cross-functional team to a triumphant launch of the loyalty site. Collaborated closely with upstream marketing and product teams to establish success benchmarks and program objectives (OKRs). Championed the conceptualization, engineering, and execution of platform enhancements and architecture, facilitating novel reward redemption mechanisms, exclusive offerings, and celebratory player interactions.
+• Pioneered the development of an automated dashboard, meticulously tracking OKRs pertaining to customer retention rate, repeat purchase rate, average order value, purchase frequency, redemption rate, and engagement metrics. Leveraged these insights to inform targeted marketing initiatives and strategic feature choices.
+• Achieved remarkable month-over-month outcomes, culminating in a $400K monthly expenditure surge with a 10% upswing, an impressive 70K unique monthly visitors boasting a 20% conversion rate, an outstanding 90% return rate, and a substantial 63K reward redemptions.
 
 
 •	Customer Retention Rate: This metric measures the percentage of customers who continue to engage with your business over a specific period. A higher retention rate indicates the loyalty program is effective in keeping customers engaged and returning.
