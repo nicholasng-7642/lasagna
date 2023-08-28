@@ -31,10 +31,16 @@ Data Management Office
 
 
 King Games	San Francisco CA
-Staff Program Manager	September 2021 – August 2022
+Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
-•	Drove the loyalty program innovation at King. The program tested different engagement and reward mechanisms aimed at retaining high value players within the King gaming ecosystem.  
-•	Led a cross functional and cross geographical team to launch a pilot loyalty site to successful delivery, including a complete site refresh, new branding, pivoting from a points-based program to a tiered mechanic, rolling out to new markets, and innovative product features.
+•	Drove King's loyalty program innovation, implementing diverse engagement and reward strategies to retain high-value players within the gaming ecosystem.
+•	Led a cross functional and cross geographical team to successful loyalty site launch. Engaged with upstream marketing and product teams to define success criteria and program OKRs. Spearheaded engineering design and implementation of platform and architecture to deliver new mechanisms to redeem rewards, sell exclusive rewards, and deliver celebration moments to players. 
+•   Created an automated dashboard to track OKRS around customer retention rate, repeat purchase rate, average order value, purchase frequency, redemption rate, and engagment metrics. These metrics were used to drive marketing campaigns and feature decisions. 
+
+
+including a complete site refresh, new branding, pivoting from a points-based program to a tiered mechanic, rolling out to new markets, and innovative product features.
+
+
 •	Customer Retention Rate: This metric measures the percentage of customers who continue to engage with your business over a specific period. A higher retention rate indicates the loyalty program is effective in keeping customers engaged and returning.
 •	Repeat Purchase Rate: This metric calculates the percentage of customers who make repeat purchases. It reflects the loyalty program's ability to drive customer behavior and encourage ongoing transactions.
 •	Average Order Value (AOV): AOV measures the average amount customers spend on each transaction. An effective loyalty program can lead to increased spending per customer as they strive to earn rewards or benefits.
