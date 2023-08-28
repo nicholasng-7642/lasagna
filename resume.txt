@@ -59,8 +59,14 @@ Medicare Fitness product launch
 •	Led the design, development, and implementation of a multi-platform digital experience. This innovative initiative introduced online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
 •	Launched the MVP platform, granting exclusive access to 12K virtual and live streaming classes from 12 content providers. This transformative measure expanded learning opportunities and maintained health goals during Covid lockdowns for vulnerable members.  
 •	Launched the program’s first digital campaign collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP).  Drove partner promotions, segment testing, GTM activities, and analytic which led to the acquisition of 750K new members.
+
 Developer advocacy program 
 •	Optimized resources and saved $2M/year by establishing a developer advocacy program, streamlining 100+ activities into efficient programs. Eliminated duplicate efforts, fostering collaboration within Rally's engineering community through value analysis and resource reallocation.
+
+PMO loren ipsum
+• Lead a working group of senior TPMs on continuously collecting data and implement best practices across a 40 member PMO ensuring alignment between SLDC and business processes using an Agile methodology.  
+
+reference: https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/
 
 Box	Redwood City CA
 Technical Program Manager	April 2018 – November 2018
