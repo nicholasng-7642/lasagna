@@ -35,10 +35,7 @@ King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
 • Drove the loyalty program enhancements at King, implementing diverse engagement and reward strategies to bolster retention of high-value players within the dynamic gaming ecosystem.
-• Led the technical deployment of Kings first loyalty site. Directed the design, development on King's only isolated infrastructure deployment. The application was engineered from the ground up using a different tech stack than the game. 
-
-
-Directed a globally dispersed, cross-functional team to a triumphant launch of the loyalty site. Collaborated closely with upstream marketing and product teams to establish success benchmarks and program objectives (OKRs). Championed the conceptualization, engineering, and execution of platform enhancements and architecture, facilitating novel reward redemption mechanisms, exclusive offerings, and celebratory player interactions.
+• Led King's technical deployment of the programs' loyalty microsite, managing design and development. Directed ground-up application engineering with a new tech stack and standing up new environments in a new cloud provider. The application introduced reward redemption, exclusives, and player engagement features.
 • Pioneered the development of an automated dashboard, meticulously tracking OKRs pertaining to customer retention rate, repeat purchase rate, average order value, purchase frequency, redemption rate, and engagement metrics. Leveraged these insights to inform targeted marketing initiatives and strategic feature choices.
 • In limited geographical release, we achieved remarkable month-over-month outcomes, culminating in a $400K monthly expenditure surge with a 10% upswing, an impressive 70K unique monthly visitors boasting a 20% conversion rate, an outstanding 90% return rate, and a substantial 63K reward redemptions.
 
@@ -54,7 +51,6 @@ Directed a globally dispersed, cross-functional team to a triumphant launch of t
 •	Engagement Metrics: Assessing the level of engagement with the loyalty program, such as the number of active participants, app downloads, or website visits, provides insights into its popularity and overall success.
 •	Cost of Customer Acquisition vs. Retention: Comparing the cost of acquiring new customers with the cost of retaining existing customers can highlight the program's cost-effectiveness. A successful loyalty program should demonstrate that retaining customers is more cost-efficient than constantly acquiring new ones.
 ################################################################################################################################################
-
 
 Rally Health	San Francisco CA
 Lead Technical Program Manager	January 2019 – September 2021
