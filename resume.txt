@@ -35,7 +35,7 @@ King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
 • Drove the loyalty program enhancements at King, implementing diverse engagement and reward strategies to bolster retention of high-value players within the dynamic gaming ecosystem.
-• Led King's technical deployment of the programs' loyalty microsite, managing design and development. Directed ground-up application engineering with a new tech stack and standing up new environments in a new cloud provider. The application introduced reward redemption, exclusives, and player engagement features.
+• Led the technical implementation of the programs' loyalty microsite, managing design and development. Directed ground-up agit pplication engineering including a new tech stack, and standing up environments with a new cloud provider. The application introduced reward redemption, exclusives, and player engagement features.
 • Pioneered the development of an automated dashboard, meticulously tracking OKRs pertaining to customer retention rate, repeat purchase rate, average order value, purchase frequency, redemption rate, and engagement metrics. Leveraged these insights to inform targeted marketing initiatives and strategic feature choices.
 • In limited geographical release, we achieved remarkable month-over-month outcomes, culminating in a $400K monthly expenditure surge with a 10% upswing, an impressive 70K unique monthly visitors boasting a 20% conversion rate, an outstanding 90% return rate, and a substantial 63K reward redemptions.
 
