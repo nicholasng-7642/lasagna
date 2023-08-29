@@ -22,6 +22,7 @@ Royalty VIP and Loyalty Program
 • Pioneered an automated dashboard, tracking vital OKRs like customer retention, repeat purchase rate, order value, frequency, redemption, and engagement. Utilized insights to steer focused marketing and strategic feature decisions.
 • In a limited geographical release, achieved impressive month-over-month results: $400K monthly expenditure surge, 10% increase; 70K unique monthly visitors, 20% conversion; remarkable 90% return rate; substantial 63K reward redemptions.
 
+Medicare Fitness product launch
 Rally Health	San Francisco CA
 Lead Technical Program Manager	January 2019 – September 2021
 Medicare Fitness product launch
@@ -31,7 +32,10 @@ Medicare Fitness product launch
 •	Launched the program’s first digital campaign collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP).  Drove partner promotions, segment testing, GTM activities, and analytic which led to the acquisition of 750K new members.
 
 Developer advocacy program 
-•	Optimized resources and saved $2M/year by establishing a developer advocacy program, streamlining 100+ activities into efficient programs. Eliminated duplicate efforts, fostering collaboration within Rally's engineering community through value analysis and resource reallocation.
+•   Consolidated 100+ disparate activities into 6 cohesive programs within the inaugural DevOps portfolio.
+•   Executed thorough value analysis, eradicating redundancy, and strategically reallocating resources to yield substantial annual savings of $2M.
+•   Spearheaded the launch of a Communities of Practice network to bolster engineering's continuous deployment mission.
+•   Cultivated enhanced cooperation and collaboration within the community, driving 5 teams to remarkably reduce cycle times from an average of 2-3 weeks to a mere 1 day.
 
 PMO loren ipsum
 • Led cross-functional team of TPMs to establish streamlined data collection and implement optimal practices across a 40-member PMO.
