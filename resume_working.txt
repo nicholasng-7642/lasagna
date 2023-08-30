@@ -35,8 +35,8 @@ King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
 • Evolved King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
-• Led technical implementation of the program's microsite, from design to development, adopting new tech stack and cloud provider.
-• Innovated features including reward redemption, exclusives, and engagement tools, enhancing player experience.
+• Led technical implementation of the program's microsite, from design to development, adopting a new tech stack and cloud provider. Innovated features including reward redemption, exclusives, and engagement tools, enhancing player experience.
+• Deployed the site to 
 • Introduced an automated dashboard tracking crucial OKRs, guiding marketing decisions and feature strategies.
 • Achieved significant month-over-month results in limited release: $400K monthly expenditure increase (10%); 70K unique monthly visitors (20% conversion); 90% return rate; 63K reward redemptions.
 
@@ -66,12 +66,23 @@ Developer advocacy program
 •   Executed thorough value analysis, eradicating redundancy, and strategically reallocating resources to yield substantial annual savings of $2M.
 •   Spearheaded the launch of a Communities of Practice network to bolster engineering's continuous deployment mission.
 •   Cultivated enhanced cooperation and collaboration within the community, driving 5 teams to remarkably reduce cycle times from an average of 2-3 weeks to a mere 1 day.
+################################################################################################################################################
+# What Tim wrote: 
+Managed two teams of six people apiece (1 mgr + 5 ICs). Responsible for the processes, services, and training supporting the software development lifecycle across Rally’s 1,000 person engineering organization.
+- Reduced the commit-to-production time across Rally by 45%
+- Lead the cross-functional initiative to shift five teams to a continuous deployment development culture
+- Launched a communities of practice network to support Rally’s continued growth
+- Deployed Stack Overflow for Teams and championing the behavioral changes required to build a scalable knowledge base for all of engineering
+•  Technologies used: AWS, Docker, Github actions, Kubernetes manifests, Terraform, AWS fargate, Splunk 
+################################################################################################################################################
 
 PMO loren ipsum
 • Led cross-functional team of TPMs to establish streamlined data collection and implement optimal practices across a 40-member PMO.
 • Ensured seamless alignment between SDLC and business processes through Agile methodology.
 
+################################################################################################################################################
 reference: https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/
+################################################################################################################################################
 
 Box	Redwood City CA
 Technical Program Manager	April 2018 – November 2018
