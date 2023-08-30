@@ -34,10 +34,11 @@ Data Management Office
 King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
-• Drove King's loyalty program evolution, introducing diverse strategies to enhance player retention in the dynamic gaming ecosystem.
-• Led technical implementation of the program's microsite, overseeing design and development. Orchestrated end-to-end application engineering, adopting a new tech stack and cloud provider. Introduced innovative features including reward redemption, exclusives, and player engagement tools.
-• Pioneered an automated dashboard, tracking vital OKRs like customer retention, repeat purchase rate, order value, frequency, redemption, and engagement. Utilized insights to steer focused marketing and strategic feature decisions.
-• In a limited geographical release, achieved impressive month-over-month results: $400K monthly expenditure surge, 10% increase; 70K unique monthly visitors, 20% conversion; remarkable 90% return rate; substantial 63K reward redemptions.
+• Evolved King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
+• Led technical implementation of the program's microsite, from design to development, adopting new tech stack and cloud provider.
+• Innovated features including reward redemption, exclusives, and engagement tools, enhancing player experience.
+• Introduced an automated dashboard tracking crucial OKRs, guiding marketing decisions and feature strategies.
+• Achieved significant month-over-month results in limited release: $400K monthly expenditure increase (10%); 70K unique monthly visitors (20% conversion); 90% return rate; 63K reward redemptions.
 
 ################################################################################################################################################
 •	Customer Retention Rate: This metric measures the percentage of customers who continue to engage with your business over a specific period. A higher retention rate indicates the loyalty program is effective in keeping customers engaged and returning.
