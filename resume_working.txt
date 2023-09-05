@@ -58,14 +58,13 @@ Lead Technical Program Manager	January 2019 – September 2021
 Medicare Fitness product launch
 •	Led the delivery of the RenewActive Medicare fitness program, a flagship initiative in the top ten portfolio of UHC. Through strategic implementation and execution, the program generated $215M in enrollment revenue during 2020
 •	Led the design, development, and implementation of a multi-platform digital experience. This innovative initiative introduced online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
-•	Launched the MVP platform, granting exclusive access to 12K virtual and live streaming classes from 12 content providers. This transformative measure expanded learning opportunities and maintained health goals during Covid lockdowns for vulnerable members.  
-•	Launched the program’s first digital campaign collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP).  Drove partner promotions, segment testing, GTM activities, and analytic which led to the acquisition of 750K new members.
+•	Launched the MVP platform, granting exclusive access to 12K virtual and live streaming classes from 12 content providers. This transformative measure expanded learning opportunities and maintained health goals during COVID lockdowns for vulnerable members.  
+•	Launched the program’s first digital campaign collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP).  Drove partner promotions, segment testing, GTM activities, and analytics which led to the acquisition of 750K new members.
 
 Developer advocacy program 
-•   Consolidated 100+ disparate activities into 6 cohesive programs within the inaugural DevOps portfolio.
-•   Executed thorough value analysis, eradicating redundancy, and strategically reallocating resources to yield substantial annual savings of $2M.
-•   Spearheaded the launch of a Communities of Practice network to bolster engineering's continuous deployment mission.
-•   Cultivated enhanced cooperation and collaboration within the community, driving 5 teams to remarkably reduce cycle times from an average of 2-3 weeks to a mere 1 day.
+•   Consolidated 100+ disparate engineering activities into 6 cohesive programs within Engineering's initial DevOps portfolio. Performed value analysis of each teams DevOps investment and eliminated redundancy while strategically reallocating resources to yield annual savings of $2M.
+# - Deployed Stack Overflow for Teams and championing the behavioral changes required to build a scalable knowledge base for all of engineering
+•   Drove migration to Helm charts and GitHub actions from an internal CI/CD pipeline, leading to 5 pilot teams to reduce cycle times from an average of 2 weeks to 1 day.  #implemented helm charts/github actions moved manifests from homegrown tooling  
 ################################################################################################################################################
 # What Tim wrote: 
 Managed two teams of six people apiece (1 mgr + 5 ICs). Responsible for the processes, services, and training supporting the software development lifecycle across Rally’s 1,000 person engineering organization.
@@ -77,8 +76,9 @@ Managed two teams of six people apiece (1 mgr + 5 ICs). Responsible for the proc
 ################################################################################################################################################
 
 PMO loren ipsum
-• Led cross-functional team of TPMs to establish streamlined data collection and implement optimal practices across a 40-member PMO.
-• Ensured seamless alignment between SDLC and business processes through Agile methodology.
+• Led a TPM practices committee which defined formal roles and responsitbilies between product, engineering, and PMO resources from portfolio to delivery. 
+• Created a processes to collect program performance data and implment process changes across a 40 member PMO.  
+• Ensured seamless alignment between SDLC and business processes through Agile methodology by establish a consistent onboarding process and .
 
 ################################################################################################################################################
 reference: https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/
