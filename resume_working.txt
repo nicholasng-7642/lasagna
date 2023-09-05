@@ -56,14 +56,14 @@ Royalty VIP and Loyalty Program
 Rally Health	San Francisco CA
 Lead Technical Program Manager	January 2019 – September 2021
 Medicare Fitness product launch
-•	Led the delivery of the RenewActive Medicare fitness program, a flagship initiative in the top ten portfolio of UHC. Through strategic implementation and execution, the program generated $215M in enrollment revenue during 2020
-•	Led the design, development, and implementation of a multi-platform digital experience. This innovative initiative introduced online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
-•	Launched the MVP platform, granting exclusive access to 12K virtual and live streaming classes from 12 content providers. This transformative measure expanded learning opportunities and maintained health goals during COVID lockdowns for vulnerable members.  
-•	Launched the program’s first digital campaign collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP).  Drove partner promotions, segment testing, GTM activities, and analytics which led to the acquisition of 750K new members.
+•   Spearheaded the delivery of the RenewActive Medicare fitness program, a flagship initiative in the top ten portfolio of UHC. Through strategic implementation and execution, the program generated $215M in enrollment revenue for FY 2020
+•	Launched the program’s first digital campaign collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP).  Drove partner promotions, segment testing, GTM activities, and analytics which resulted in the acquisition of 750K new members.
+•	Led the design, development, and implementation of a multi-platform digital experience. Managed 15+ technical and non-technical teams to deliver features including online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
+•	Launched a COVID MVP platform, granting exclusive access to 12K virtual and live streaming classes from 12 content providers. This company innovation expanded class opportunities and maintained health goals during lockdowns for vulnerable members.  
 
 Developer advocacy program 
 •   Consolidated 100+ disparate engineering activities into 6 cohesive programs within Engineering's initial DevOps portfolio. Performed value analysis of each teams DevOps investment and eliminated redundancy while strategically reallocating resources to yield annual savings of $2M.
-# - Deployed Stack Overflow for Teams and championing the behavioral changes required to build a scalable knowledge base for all of engineering
+# - Deployed Stack Overflow for Teams and developed process and practices required to build a scalable knowledge base for the growing engineering department.
 •   Drove migration to Helm charts and GitHub actions from an internal CI/CD pipeline, leading to 5 pilot teams to reduce cycle times from an average of 2 weeks to 1 day.  #implemented helm charts/github actions moved manifests from homegrown tooling  
 ################################################################################################################################################
 # What Tim wrote: 
@@ -76,9 +76,9 @@ Managed two teams of six people apiece (1 mgr + 5 ICs). Responsible for the proc
 ################################################################################################################################################
 
 PMO loren ipsum
-• Led a TPM practices committee which defined formal roles and responsitbilies between product, engineering, and PMO resources from portfolio to delivery. 
-• Created a processes to collect program performance data and implment process changes across a 40 member PMO.  
-• Ensured seamless alignment between SDLC and business processes through Agile methodology by establish a consistent onboarding process and .
+• Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams from portfolio to delivery. 
+• Created processes to collect program performance data and implement process changes across a 40-member PMO.  
+• Ensured seamless alignment between SDLC and business processes through Agile methodology by establishing and maintaining a consistent onboarding process and centralized documentation. 
 
 ################################################################################################################################################
 reference: https://doordash.engineering/2021/08/02/6-principles-for-building-a-world-class-tpm-team/
@@ -94,20 +94,39 @@ Hardware engineering program launch
 MZ (formerly Machine Zone) 	Palo Alto CA
 Senior Technical Program Manager	June 2016 – March 2018
 Application resilience testing 
-•	Led CTO initiative to test the resiliency of the production environment for all MZs games. The scope of failure injection included 15 production services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.   
+•	Spearheaded the CTO iniitiative of production reslienceny testing for all MZs games. The scope of failure injection included 15 production services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.   
 •	Managed the design and development for application and data testing. Coordinated support resources and companywide communications for live testing. Built roadmap for service and infrastructure improvements which increased availability from 99.9% to 99.99%.  
 Data analytics services launch
-•	Led an executive initiative to deploy a data analytics pod to service MZ’s growing data collection and analysis requirements. The pod increased capability, capacity, and security to handle data feeds, pipeline services, data stores, and analytical and visualization toolsets. Sales and marketing decision time decreased by 50% resulting in 15% less cost per application installation.     
-•	Led design, acquisition, and deployment of 160 cabinets of hardware and applications. Stack included: Hadoop (HDP and MapR), Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau. 
+•	Drove an executive initiative to deploy a data analytics pod to service MZ’s growing data collection and analysis requirements. The pod increased capability, capacity, and security to handle data feeds, pipeline services, data stores, and analytical and visualization toolsets. Sales and marketing decision time decreased by 50% resulting in 15% less cost per application installation.     
+•	Led the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included: Hadoop (HDP and MapR), Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau. 
 •	Managed the migration of 120+ data sets, 200+ workloads, and 100+ pipeline jobs
 
 Gap	San Francisco CA
 Senior Project Manager	March 2015 – June 2016
 DevOps IaaS standardization	
-•	Led the standardization of GapTech’s Chef IaaS platform and configurations. Eliminated technical debt and aligned all infrastructure deployments between the stores, e-commerce, and corporate business units. 
+•	Directed the standardization of GapTech’s Chef IaaS platform and configurations. Eliminated technical debt and aligned all infrastructure deployments between the stores, e-commerce, and corporate business units. 
 •	Coordinated the activities of 30+ product, development, operation, and release engineering teams for testing and monitoring. Migrated 30,000+ nodes with no testing pipeline instability or release disruptions.
 •	The unified platform resulted in savings of $200K/year of cloud computing and licensing costs. Deployments frequencies increased 10x with a global pipeline model. 
 Enterprise logging deployment
 •	Managed the implementation of the Splunk platform for GapTech operations and InfoSec. Collected requirements and led design. Managed the deployment of data center forwarders, indexers, and search heads to collect data from 10,000+ nodes.  
 •	Migrated log ingestion of 100GB/day into archived or indexed modes for Operations to be able to create alerts, search data, and create reports to reduce MTTA and MTTR for production systems.    
 
+################################################################################################################################################
+Skills:
+
+- Project management: Extensive experience in managing complex technical projects from initiation to closure, ensuring timely delivery, quality, and budget compliance.
+
+- Technical expertise: Strong technical background in software engineering, data analytics, and cloud computing, with the ability to understand and communicate technical concepts effectively.
+
+- Stakeholder management: Proven ability to build and maintain positive relationships with stakeholders, including customers, partners, vendors, and internal teams, to ensure alignment and successful delivery.
+
+- Risk management: Expertise in identifying, assessing, and mitigating project risks, and developing contingency plans to ensure project success and minimize impact on business operations.
+
+- Communication and leadership: Excellent communication skills, both verbal and written, with the ability to lead cross-functional teams, facilitate meetings, and present complex information to diverse audiences.
+
+- Agile methodology: Proficient in Agile methodology, including Scrum, Kanban, and Lean, with experience in implementing and improving Agile processes to enhance team productivity and product quality.
+
+- Data-driven decision making: Strong analytical skills and experience in using data to inform decision making, measure project success, and drive continuous improvement.
+
+- Change management: Familiarity with change management processes and tools, with the ability to manage change effectively and minimize disruption to business operations.
+################################################################################################################################################
