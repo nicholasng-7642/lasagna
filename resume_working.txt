@@ -34,11 +34,11 @@ Data Management Office
 King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
-• Evolved King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
-# Led technical implementation of the program's microsite, from design to development, adopting a new tech stack and cloud provider. Innovated features including reward redemption, exclusives, and engagement tools, enhancing player experience.
+•   Evolved King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
+•   Led end-to-end technical implementation of the rewards website, including tech stack migration and cloud provider transition (from GCP to Azure) for scalaility. With player data integration, the site introduced reward redemption, exclusive content, and engagement tools, greatly improving the player experience.
 # Deployed the site to the 150K users in the first month with <insert engagement and $$$ metrics> 
-• Introduced an automated dashboard tracking crucial OKRs, guiding marketing decisions and feature strategies.
 • Achieved significant month-over-month results in limited release: $400K monthly expenditure increase (10%); 70K unique monthly visitors (20% conversion); 90% return rate; 63K reward redemptions.
+•   Pioneered an automated dashboard tracking critical OKRs, guiding marketing and feature strategies. Leveraged technical skills to integrate diverse data sources, enabling real-time insights for informed decision-making. Collaborated with data experts to ensure data accuracy and completeness, reinforcing the dashboard's reliability.
 
 ################################################################################################################################################
 •	Customer Retention Rate: This metric measures the percentage of customers who continue to engage with your business over a specific period. A higher retention rate indicates the loyalty program is effective in keeping customers engaged and returning.
