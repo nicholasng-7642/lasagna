@@ -20,7 +20,7 @@ Royalty VIP and Loyalty Program
 •   Evolved King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
 •   Led end-to-end technical implementation of the rewards website, including tech stack migration and cloud provider transition (from GCP to Azure) for scalability. With player data integration, the site introduced reward redemption, exclusive content, and engagement tools, greatly improving the player experience.
 •   Achieved significant month-over-month results in limited release: $400K monthly expenditure increase (10%); 70K unique monthly visitors (20% conversion); 90% return rate; 63K reward redemptions.
-•   Pioneered an automated dashboard tracking critical OKRs, guiding marketing and feature strategies. Leveraged technical skills to integrate diverse data sources, enabling real-time insights for informed decision-making. Collaborated with data experts to ensure data accuracy and completeness, reinforcing the dashboard's reliability.
+•   Pioneered an automated dashboard tracking critical OKRs, guiding marketing and feature strategies. Leveraged technical skills to integrate diverse data sources, enabling real-time insights for informed decision-making. Collaborated with data experts to ensure data accuracy and completeness, reinforcing the dashboard's reliability.~
 
 Rally Health	San Francisco CA
 Lead Technical Program Manager	January 2019 – September 2021
@@ -45,7 +45,8 @@ Box	Redwood City CA
 Technical Program Manager	April 2018 – November 2018
 Hardware engineering program launch
 •	Established Box’s central hardware engineering program to manage the lifecycle of 30+ hardware configurations across 50+ services and drove research for solution and architecture adoption. 
-•	Analyzed and initiated a $2M savings opportunity for Box. Reconfigured hardware to create a new storage SKU which performed 2x faster in a smaller footprint at 25% less cost. Created a two-year plan to map deployment, reallocation, and depreciation activities. 
+•	Analyzed and initiated a $2M savings opportunity for Box. Reconfigured hardware to create a new storage SKU which performed 2x faster in a smallerq
+ footprint at 25% less cost. Created a two-year plan to map deployment, reallocation, and depreciation activities. 
 •	Scaled out Box’s testing capacity by 3x leading to faster decision making. Shifted testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners. Reconfigured hardware test environments to align with production environments. Standardized the testing pipeline, automated benchmarking, and data reporting. 
 
 MZ (formerly Machine Zone) 	Palo Alto CA
