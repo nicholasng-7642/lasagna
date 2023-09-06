@@ -39,7 +39,7 @@ Developer advocacy program
 PMO leadership team
 •   Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams from portfolio to delivery. 
 •   Created processes to collect program performance data and implement process changes across a 40-member PMO.  
-•   Ensured seamless alignment between SDLC and business processes through Agile methodology by establishing and maintaining a consistent onboarding process and centralized documentation. 
+#•   Ensured seamless alignment between SDLC and business processes through Agile methodology by establishing and maintaining a consistent onboarding process and centralized documentation. 
 
 
 Box	Redwood City CA
@@ -52,7 +52,7 @@ Hardware engineering program launch
 MZ (formerly Machine Zone) 	Palo Alto CA
 Senior Technical Program Manager	June 2016 – March 2018
 Application resilience testing 
-•	Spearheaded the CTO initiative of production resiliency testing for all MZs games. The failure injection scope included 15 production services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.   
+•	Spearheaded the CTO initiative of production resiliency testing for all MZs games. The failure injection  included 15 production services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.   
 •	Managed the design and development for application and data testing. Coordinated support resources and companywide communications for live testing. Built roadmap for service and infrastructure improvements which increased availability from 99.9% to 99.99%.  
 
 Data analytics services launch
