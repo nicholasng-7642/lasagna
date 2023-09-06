@@ -61,7 +61,7 @@ Medicare Fitness product launch
 •	Launched a COVID MVP platform, granting exclusive access to 12K virtual and live streaming classes from 12 content providers. This company innovation expanded class opportunities and maintained health goals during lockdowns for vulnerable members.  
 
 Developer advocacy program 
-•   Consolidated 100+ disparate engineering activities into 6 cohesive programs within Engineering's initial DevOps portfolio. Performed value analysis of each teams DevOps investment and eliminated redundancy while strategically reallocating resources to yield annual savings of $2M.
+•   Consolidated 50+ disparate engineering activities into 6 cohesive programs within Engineering's initial DevOps portfolio. Performed value analysis of each teams DevOps investment and eliminated redundancy while strategically reallocating resources to yield annual savings of $2M.
 # - Deployed Stack Overflow for Teams and developed process and practices required to build a scalable knowledge base for the growing engineering department.
 •   Drove migration to Helm charts and GitHub actions from an internal CI/CD pipeline, leading to 5 pilot teams to reduce cycle times from an average of 2 weeks to 1 day.  #implemented helm charts/github actions moved manifests from homegrown tooling  
 ################################################################################################################################################
