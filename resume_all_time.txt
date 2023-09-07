@@ -1,22 +1,6 @@
-
-Apple	Cupertino CA
-Program Manager	September 2022 - Present
-Data Management Office
-
-•   Write executive-level status updates with information collated from scrum leads for cross-track meetings.
-•	Deliver status updates to executives and other senior leaders.
-•	Handle RAID (Risk, Action, Issue, Decision) log creation, maintenance, and follow up with relevant cross-functional teams.
-•	Maintains program timeline in Wrike tool as well as oversee scrum team/sprint alignment with program timeline.
-•	Coordinate with other program PMs to resolve issues called out in cross-track meetings, and work with them to ensure healthy alignment while managing the escalation path to track leadership for unresolved/larger issues. Be our DMO point of contact to identify, document, and drive resolution of project issues.
-•	Manage DMO’s project risk throughout the life of the project.
-•	Manage DMO program budget: invoice tracking, reconciliation, following up with managers
-•	for checking hours worked on team, highlight overshoot or undershoot issues, monthly budget meetings, submitting SOWs and PRs, etc.
-•	Facilitate budget planning for new projects and project scope changes, including business justifications and strategic road maps.
-
 King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
-•   Orchestrated and led cross-functional teams of up to 50 stakeholders, managing projects with budgets exceeding $1 million.
 •   Evolved King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
 •   Led end-to-end technical implementation of the rewards website, including tech stack migration and cloud provider transition (from GCP to Azure) for scalability. With player data integration, the site introduced reward redemption, exclusive content, and engagement tools, greatly improving the player experience.
 •   Achieved significant month-over-month results in limited release: $400K monthly expenditure increase (10%); 70K unique monthly visitors (20% conversion); 90% return rate; 63K reward redemptions.
@@ -38,8 +22,6 @@ Developer advocacy program
 PMO leadership team
 •   Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams from portfolio to delivery. 
 •   Created processes to collect program performance data and implement process changes across a 40-member PMO.  
-#•   Ensured seamless alignment between SDLC and business processes through Agile methodology by establishing and maintaining a consistent onboarding process and centralized documentation. 
-
 
 Box	Redwood City CA
 Technical Program Manager	April 2018 – November 2018
@@ -69,24 +51,6 @@ DevOps IaaS standardization
 Enterprise logging deployment
 •	Managed the implementation of the Splunk platform for GapTech operations and InfoSec. Collected requirements and led design. Managed the deployment of data center forwarders, indexers, and search heads to collect data from 10,000+ nodes.  
 •	Migrated log ingestion of 100GB/day into archived or indexed modes for Operations to be able to create alerts, search data, and create reports to reduce MTTA and MTTR by 10%.
-
-Senior Project Manager March 2015 – June 2016
-Gap 	San Francisco, CA
-DevOps automation standardization	
-•	Led the standardization of GapTech’s Chef platform and base configurations with the objectives of mitigating technical debt and aligning infrastructure deployments between stores, e-commerce, and corporate systems.  
-•	Collected requirements and drove the architectural design, development, and deployment of enterprise scale Chef management server.  This was a consolidation and convergence of different versioned servers.  
-•	Coordinated the upgrade of the Chef client and environment migrations (development to production across 3 data centers) to new management server.  The effort required the participation of 30+ product, development, operation, and release engineering teams.  Migrated 30,000+ nodes while maintaining stability for testing pipelines and release schedules.
-•	Tested and introduced new Analytics feature to capture and visualize previously unavailable metrics for performance of nodes.  
-Enterprise logging deployment
-•	Managed the deployment of the enterprise logging solution (Splunk) for GapTech.  
-•	Collected requirements, led design, and deployment of data center forwarders, clustered indexers, and clustered search heads across 10,000 + nodes and endpoints.  
-•	Planned and managed the ingestion of logs into archive or indexed modes for Operations to be able to create alerts, search data, and create reports to reduce response and repair time for production systems.  
-•	Planned and managed the ingestion of InfoSec logs from firewalls, switches, and security applications.  Coordinated testing between the InfoSec team and logging team to implement security apps and add ons. 
-GapTech campus deployment
-•	Managed the infrastructure deployment of the newest GapTech campus.  The deployment consisted of a data center build with hubs to support teams throughout the building.  
-•	Led design sessions between building, infrastructure, network, and security engineering teams to align the delivery of technical services for the occupants.  Services included Internet, telephony, conferencing solutions, and security measures in addition to supplemental requirements for the Network Operations Center, Global Security Operations Center, and development labs for GapTech.  Power, space, and cooling designs were produced to support the required compute and network solutions.  
-•	Generated and tracked budget, tasks, and schedule for procurement, installation, and configuration of all hardware and software deployed into the campus.  This included the management and billing of internal Gap resources and vendors. 
-•	Inventoried and tracked moves or decommission of equipment or services between the various vacated campuses and the new campus.  Planned moves with engineers to maintain SLAs for existing development pipeline, reporting, and monitoring services.  
 
 Project Manager 	March 2011 – March 2015
 macys.com - Operations	San Francisco, CA
@@ -119,6 +83,7 @@ Educational WLAN deployment for New South Wales, Australia
 •	Managed action items with senior management in hardware engineering, software engineering, QE, and product management to ensure complete solution delivery as specified by the RFP terms.  Managed milestones for production code release.  Worked with engineering team to triage and resolve observed deviations from regression testing during deployment to produce appropriate issue reports, bug fixes, and feature requests. 
 •	Coordinated hardware deliverables between senior management in supply chain operations and the integration partners to ensure timely and proper product delivery.  
 •	Managed the integration of the Aruba controller and WLAN equipment and AirWave management product into DET’s multi-vendor support model.  Drove standardization of process and documents for DET’s newly formed support group.
+
 Senior Project Manager	July 2005 – July 2008
 Veraz Networks - Professional Services	San Jose, CA
 Professional services project management
@@ -127,6 +92,7 @@ Session border controller software development
 •	Managed the concurrent development of Veraz’s security (SBC) and QoS software solution Directed the integration of these products into existing customers’ systems on a pre-beta basis.  Conducted the field trials and worked cross functionally with product management, engineering, and QA to drive refinement of features to finalize the GA offering.  
 SIP-I protocol handling software development
 •	Managed the design, development, and testing of Veraz SIP-I software used for proof of concept testing.  Completed successful IPX (IP eXchange) trial between Telecom New Zealand and Telekom Austria.  Trial tested interoperability of Veraz’s alpha release to process SIP-I protocol packets from Telekom Austria and complete IMS based calls on the Telecom New Zealand Mobile network.  Coordinated activities between teams from each company across four continents.  
+
 Senior Manager	July 2004 – June 2005
 AirSurf Wireless	San Mateo, CA
 Usability and scalability proof of concept pilots
