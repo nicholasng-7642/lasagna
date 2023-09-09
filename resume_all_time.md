@@ -1,99 +1,99 @@
 King Games	San Francisco CA
 Senior Technical Program Manager	September 2021 – August 2022
 Royalty VIP and Loyalty Program
-•   Evolved King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
-•   Led end-to-end technical implementation of the rewards website, including tech stack migration and cloud provider transition (from GCP to Azure) for scalability. With player data integration, the site introduced reward redemption, exclusive content, and engagement tools, greatly improving the player experience.
-•   Achieved significant month-over-month results in limited release: $400K monthly expenditure increase (10%); 70K unique monthly visitors (20% conversion); 90% return rate; 63K reward redemptions.
-•   Pioneered an automated dashboard tracking critical OKRs, guiding marketing and feature strategies. Leveraged technical skills to integrate diverse data sources, enabling real-time insights for informed decision-making. Collaborated with data experts to ensure data accuracy and completeness, reinforcing the dashboard's reliability.
+-   Evolved King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
+-   Led end-to-end technical implementation of the rewards website, including tech stack migration and cloud provider transition (from GCP to Azure) for scalability. With player data integration, the site introduced reward redemption, exclusive content, and engagement tools, greatly improving the player experience.
+-   Achieved significant month-over-month results in limited release: $400K monthly expenditure increase (10%); 70K unique monthly visitors (20% conversion); 90% return rate; 63K reward redemptions.
+-   Pioneered an automated dashboard tracking critical OKRs, guiding marketing and feature strategies. Leveraged technical skills to integrate diverse data sources, enabling real-time insights for informed decision-making. Collaborated with data experts to ensure data accuracy and completeness, reinforcing the dashboard's reliability.
 
 Rally Health	San Francisco CA
 Lead Technical Program Manager	January 2019 – September 2021
 Medicare Fitness product launch
-•   Directed and managed large cross-functional teams, comprising up to 50 stakeholders, and budgets exceeding $1 million for the successful launch of the RenewActive Medicare fitness program, a flagship initiative in the top ten portfolio of UHC. Through strategic implementation and execution, the program generated $215M in enrollment revenue for FY 2020.
-•	Launched the program’s first digital campaign, collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP). Drove partner promotions, segment testing, GTM activities, and analytics which resulted in the acquisition of 750K new members.
-•	Led the design, development, and implementation of a multi-platform digital experience. Managed 15+ technical and non-technical teams to deliver features, including online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
-•	Launched a COVID MVP platform, granting exclusive access to 12K virtual and live-streaming classes from 12 content providers. This company innovation expanded class opportunities and maintained health goals during lockdowns for vulnerable members.  
+-   Directed and managed large cross-functional teams, comprising up to 50 stakeholders, and budgets exceeding $1 million for the successful launch of the RenewActive Medicare fitness program, a flagship initiative in the top ten portfolio of UHC. Through strategic implementation and execution, the program generated $215M in enrollment revenue for FY 2020.
+-	Launched the program’s first digital campaign, collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP). Drove partner promotions, segment testing, GTM activities, and analytics which resulted in the acquisition of 750K new members.
+-	Led the design, development, and implementation of a multi-platform digital experience. Managed 15+ technical and non-technical teams to deliver features, including online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
+-	Launched a COVID MVP platform, granting exclusive access to 12K virtual and live-streaming classes from 12 content providers. This company innovation expanded class opportunities and maintained health goals during lockdowns for vulnerable members.  
 
 Developer advocacy program 
-•   Consolidated 100+ disparate engineering activities into 6 cohesive programs within Engineering's initial DevOps portfolio. Performed value analysis of each team's DevOps investment and eliminated redundancy while strategically reallocating resources to yield annual savings of $2M.
-•   Deployed Stack Overflow for Teams and developed processes and practices required to build a scalable knowledge base for the growing engineering department.
-•   Drove migration to Helm charts and GitHub actions from an internal CI/CD pipeline, leading to 5 pilot teams to reduce cycle times from an average of 2 weeks to 1 day. 
+-   Consolidated 100+ disparate engineering activities into 6 cohesive programs within Engineering's initial DevOps portfolio. Performed value analysis of each team's DevOps investment and eliminated redundancy while strategically reallocating resources to yield annual savings of $2M.
+-   Deployed Stack Overflow for Teams and developed processes and practices required to build a scalable knowledge base for the growing engineering department.
+-   Drove migration to Helm charts and GitHub actions from an internal CI/CD pipeline, leading to 5 pilot teams to reduce cycle times from an average of 2 weeks to 1 day. 
 
 PMO leadership team
-•   Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams from portfolio to delivery. 
-•   Created processes to collect program performance data and implement process changes across a 40-member PMO.  
+-   Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams from portfolio to delivery. 
+-   Created processes to collect program performance data and implement process changes across a 40-member PMO.  
 
 Box	Redwood City CA
 Technical Program Manager	April 2018 – November 2018
 Hardware engineering program launch
-•	Established Box’s central hardware engineering program to manage the lifecycle of 30+ hardware configurations across 50+ services and drove research for solution and architecture adoption. 
-•	Analyzed and initiated a $2M savings opportunity for Box. Reconfigured hardware to create a new storage SKU which performed 2x faster in a smaller footprint at 25% less cost. Created a two-year plan to map deployment, reallocation, and depreciation activities. 
-•	Scaled out Box’s testing capacity by 3x leading to faster decision making. Shifted testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners. Reconfigured hardware test environments to align with production environments. Standardized the testing pipeline, automated benchmarking, and data reporting. 
+-	Established Box’s central hardware engineering program to manage the lifecycle of 30+ hardware configurations across 50+ services and drove research for solution and architecture adoption. 
+-	Analyzed and initiated a $2M savings opportunity for Box. Reconfigured hardware to create a new storage SKU which performed 2x faster in a smaller footprint at 25% less cost. Created a two-year plan to map deployment, reallocation, and depreciation activities. 
+-	Scaled out Box’s testing capacity by 3x leading to faster decision making. Shifted testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners. Reconfigured hardware test environments to align with production environments. Standardized the testing pipeline, automated benchmarking, and data reporting. 
 
 MZ (formerly Machine Zone) 	Palo Alto CA
 Senior Technical Program Manager	June 2016 – March 2018
 Application resilience testing 
-•	Spearheaded the CTO initiative of production resiliency testing for all MZs games. The failure injection  included 15 production services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.   
-•	Managed the design and development for application and data testing. Coordinated support resources and companywide communications for live testing. Built roadmap for service and infrastructure improvements which increased availability from 99.9% to 99.99%.  
+-	Spearheaded the CTO initiative of production resiliency testing for all MZs games. The failure injection  included 15 production services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.   
+-	Managed the design and development for application and data testing. Coordinated support resources and companywide communications for live testing. Built roadmap for service and infrastructure improvements which increased availability from 99.9% to 99.99%.  
 
 Data analytics services launch
-•	Drove an executive initiative to deploy a data analytics pod to service MZ’s growing data collection and analysis requirements. The pod increased capability, capacity, and security to handle data feeds, pipeline services, data stores, and analytical and visualization toolsets. Sales and marketing decision time decreased by 50% resulting in 15% less cost per application installation.     
-•	Led the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included: Hadoop (HDP and MapR), Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau. 
-•	Managed the migration of 120+ data sets, 200+ workloads, and 100+ pipeline jobs
+-	Drove an executive initiative to deploy a data analytics pod to service MZ’s growing data collection and analysis requirements. The pod increased capability, capacity, and security to handle data feeds, pipeline services, data stores, and analytical and visualization toolsets. Sales and marketing decision time decreased by 50% resulting in 15% less cost per application installation.     
+-	Led the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included: Hadoop (HDP and MapR), Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau. 
+-	Managed the migration of 120+ data sets, 200+ workloads, and 100+ pipeline jobs
 
 Gap	San Francisco CA
 Senior Project Manager	March 2015 – June 2016
 DevOps IaaS standardization	
-•	Directed the standardization of GapTech’s Chef IaaS platform and configurations. Eliminated technical debt and aligned all infrastructure deployments between the stores, e-commerce, and corporate business units. 
-•	Coordinated the activities of 30+ product, development, operation, and release engineering teams for testing and monitoring. Migrated 30,000+ nodes with no testing pipeline instability or release disruptions.
-•	The unified platform resulted in savings of $200K/year in cloud computing and licensing costs. Deployments frequencies increased 10x with a global pipeline model. 
+-	Directed the standardization of GapTech’s Chef IaaS platform and configurations. Eliminated technical debt and aligned all infrastructure deployments between the stores, e-commerce, and corporate business units. 
+-	Coordinated the activities of 30+ product, development, operation, and release engineering teams for testing and monitoring. Migrated 30,000+ nodes with no testing pipeline instability or release disruptions.
+-	The unified platform resulted in savings of $200K/year in cloud computing and licensing costs. Deployments frequencies increased 10x with a global pipeline model. 
 
 Enterprise logging deployment
-•	Managed the implementation of the Splunk platform for GapTech operations and InfoSec. Collected requirements and led design. Managed the deployment of data center forwarders, indexers, and search heads to collect data from 10,000+ nodes.  
-•	Migrated log ingestion of 100GB/day into archived or indexed modes for Operations to be able to create alerts, search data, and create reports to reduce MTTA and MTTR by 10%.
+-	Managed the implementation of the Splunk platform for GapTech operations and InfoSec. Collected requirements and led design. Managed the deployment of data center forwarders, indexers, and search heads to collect data from 10,000+ nodes.  
+-	Migrated log ingestion of 100GB/day into archived or indexed modes for Operations to be able to create alerts, search data, and create reports to reduce MTTA and MTTR by 10%.
 
 Project Manager 	March 2011 – March 2015
 macys.com - Operations	San Francisco, CA
 DevOps automation transformation for infrastructure operations
-•	Designed, planned, and managed the deployment and adoption of Chef configuration management for operations stability which led to process change for server builds from template and manual deployment to code development and release workflow.  
-•	Designed and implemented training for 20 operations engineers on Chef domain-specific language, requirements writing, test writing, code review, and Agile/Scrum practices.  
-•	This effort consisted of developing and releasing 40 new cookbooks, re-engineering 4000+ nodes, testing and migrating 250+ applications, and coordinating activities between 20+ development and production support teams over 14 months.
+-	Designed, planned, and managed the deployment and adoption of Chef configuration management for operations stability which led to process change for server builds from template and manual deployment to code development and release workflow.  
+-	Designed and implemented training for 20 operations engineers on Chef domain-specific language, requirements writing, test writing, code review, and Agile/Scrum practices.  
+-	This effort consisted of developing and releasing 40 new cookbooks, re-engineering 4000+ nodes, testing and migrating 250+ applications, and coordinating activities between 20+ development and production support teams over 14 months.
 DevOps automation transformation for continuous integration
-•	Designed, introduced, and integrated Chef into a continuous integration pipeline for e-commerce backend services development.
-•	The service provided Chef, vCloud, and Jenkins for development and release teams to automate, standardize, and manage deployments.  These teams were able to reduce environment deployment from 2 weeks to 1 day by deploying multiple base images and builds from cookbooks.  
-•	Aligned test framework to include infrastructure and application in the same test suite.  This included changes in process, test suites, and convergence of testing applications.
-•	Tracked the consolidation of application code and cookbooks from Git, Gerrit, and SVN repositories into a single GitLab instance.
+-	Designed, introduced, and integrated Chef into a continuous integration pipeline for e-commerce backend services development.
+-	The service provided Chef, vCloud, and Jenkins for development and release teams to automate, standardize, and manage deployments.  These teams were able to reduce environment deployment from 2 weeks to 1 day by deploying multiple base images and builds from cookbooks.  
+-	Aligned test framework to include infrastructure and application in the same test suite.  This included changes in process, test suites, and convergence of testing applications.
+-	Tracked the consolidation of application code and cookbooks from Git, Gerrit, and SVN repositories into a single GitLab instance.
 Infrastructure program manager
-•	Analyzed and managed capacity for macys.com infrastructure to support production, development, data and analytics, and other tool sets.  This consisted of forecasting and implementation of power, space, network capacity, storage capacity, and compute resources on an ongoing basis.  
-•	Managed the refresh and redesign of the legacy VM farm leveraging clustering, high density computing, and thin provisioning technologies.  This resulted in a performance gain of 20% speed and 30% storage savings that lead to an accelerated ability to offer more resources to teams.  
-•	Led and scored evaluations for infrastructure automation, orchestration, scheduling, logging, inventory, and monitoring solutions to support production and development teams.   
+-	Analyzed and managed capacity for macys.com infrastructure to support production, development, data and analytics, and other tool sets.  This consisted of forecasting and implementation of power, space, network capacity, storage capacity, and compute resources on an ongoing basis.  
+-	Managed the refresh and redesign of the legacy VM farm leveraging clustering, high density computing, and thin provisioning technologies.  This resulted in a performance gain of 20% speed and 30% storage savings that lead to an accelerated ability to offer more resources to teams.  
+-	Led and scored evaluations for infrastructure automation, orchestration, scheduling, logging, inventory, and monitoring solutions to support production and development teams.   
 Collaboration tools product manager
-•	Product manager of the macys.com JIRA instance. The instance supported 100+ projects, 2000+ users, and 200,000+ stories, tasks, and issues.  Met regularly with the user community (product owners, ScrumMasters, and engineering leads) to configure projects to suit their requirements while aligning to best Agile practices.  
-•	Product manager of macys.com Confluence instance.  The instance supported 75+ spaces, 4000+ users, and 30,000 pages.  Provided guidance to the user community how to best leverage Confluence features to articulate, document, track, and work together on ideas within and across teams.  
-•	Maintained roadmap for architecture, version upgrades, plugins, and interoperability with macys.com tools.  
+-	Product manager of the macys.com JIRA instance. The instance supported 100+ projects, 2000+ users, and 200,000+ stories, tasks, and issues.  Met regularly with the user community (product owners, ScrumMasters, and engineering leads) to configure projects to suit their requirements while aligning to best Agile practices.  
+-	Product manager of macys.com Confluence instance.  The instance supported 75+ spaces, 4000+ users, and 30,000 pages.  Provided guidance to the user community how to best leverage Confluence features to articulate, document, track, and work together on ideas within and across teams.  
+-	Maintained roadmap for architecture, version upgrades, plugins, and interoperability with macys.com tools.  
 Big data transformation 
-•	Led the conversion of macys.com’s OLTP database into a mixed workload OLAP database to support macys.com marketing analytics initiatives.  
-•	Worked cross functionally with financial analysts, marketing analytics users, data architects, and hardware architects to define requirements and create a plan to migrate the data while maintaining production SLAs.  Completed migrating and restructuring the database over the course of 12 months.  Deliverables included hardware migration, database creation, data transformation (cubing) and loading, testing and migration of batch jobs, and conducting interoperability, acceptance, and performance testing.  
+-	Led the conversion of macys.com’s OLTP database into a mixed workload OLAP database to support macys.com marketing analytics initiatives.  
+-	Worked cross functionally with financial analysts, marketing analytics users, data architects, and hardware architects to define requirements and create a plan to migrate the data while maintaining production SLAs.  Completed migrating and restructuring the database over the course of 12 months.  Deliverables included hardware migration, database creation, data transformation (cubing) and loading, testing and migration of batch jobs, and conducting interoperability, acceptance, and performance testing.  
 
 Program Manager (Contract)	June 2009 – December 2009
 Aruba Networks	Sunnyvale, CA
 Educational WLAN deployment for New South Wales, Australia
-•	Recruited specifically to manage the Australian Department of Education and Training (DET) deployment, which was Aruba’s largest deal to date ($17M).  WLAN scope of work included 463 education sites and 20 data centers covering the New South Wales region.  
-•	Created program dashboard that reported all deployment issues and forecasts.  Held regular meetings with executive management to report status and communicate issues between customer, partners, and impacted business units.
-•	Managed action items with senior management in hardware engineering, software engineering, QE, and product management to ensure complete solution delivery as specified by the RFP terms.  Managed milestones for production code release.  Worked with engineering team to triage and resolve observed deviations from regression testing during deployment to produce appropriate issue reports, bug fixes, and feature requests. 
-•	Coordinated hardware deliverables between senior management in supply chain operations and the integration partners to ensure timely and proper product delivery.  
-•	Managed the integration of the Aruba controller and WLAN equipment and AirWave management product into DET’s multi-vendor support model.  Drove standardization of process and documents for DET’s newly formed support group.
+-	Recruited specifically to manage the Australian Department of Education and Training (DET) deployment, which was Aruba’s largest deal to date ($17M).  WLAN scope of work included 463 education sites and 20 data centers covering the New South Wales region.  
+-	Created program dashboard that reported all deployment issues and forecasts.  Held regular meetings with executive management to report status and communicate issues between customer, partners, and impacted business units.
+-	Managed action items with senior management in hardware engineering, software engineering, QE, and product management to ensure complete solution delivery as specified by the RFP terms.  Managed milestones for production code release.  Worked with engineering team to triage and resolve observed deviations from regression testing during deployment to produce appropriate issue reports, bug fixes, and feature requests. 
+-	Coordinated hardware deliverables between senior management in supply chain operations and the integration partners to ensure timely and proper product delivery.  
+-	Managed the integration of the Aruba controller and WLAN equipment and AirWave management product into DET’s multi-vendor support model.  Drove standardization of process and documents for DET’s newly formed support group.
 
 Senior Project Manager	July 2005 – July 2008
 Veraz Networks - Professional Services	San Jose, CA
 Professional services project management
-•	Managed project life cycle for domestic and international implementations of Veraz’s VoIP software and hardware platform.  Responsibilities included gathering requirements, network design, issuing statement of work, creating project plan, custom feature development, software and hardware deployment, systems integration, acceptance testing, and operational transition.  Project sizes ranged between $8M to $15M revenue.
+-	Managed project life cycle for domestic and international implementations of Veraz’s VoIP software and hardware platform.  Responsibilities included gathering requirements, network design, issuing statement of work, creating project plan, custom feature development, software and hardware deployment, systems integration, acceptance testing, and operational transition.  Project sizes ranged between $8M to $15M revenue.
 Session border controller software development
-•	Managed the concurrent development of Veraz’s security (SBC) and QoS software solution Directed the integration of these products into existing customers’ systems on a pre-beta basis.  Conducted the field trials and worked cross functionally with product management, engineering, and QA to drive refinement of features to finalize the GA offering.  
+-	Managed the concurrent development of Veraz’s security (SBC) and QoS software solution Directed the integration of these products into existing customers’ systems on a pre-beta basis.  Conducted the field trials and worked cross functionally with product management, engineering, and QA to drive refinement of features to finalize the GA offering.  
 SIP-I protocol handling software development
-•	Managed the design, development, and testing of Veraz SIP-I software used for proof of concept testing.  Completed successful IPX (IP eXchange) trial between Telecom New Zealand and Telekom Austria.  Trial tested interoperability of Veraz’s alpha release to process SIP-I protocol packets from Telekom Austria and complete IMS based calls on the Telecom New Zealand Mobile network.  Coordinated activities between teams from each company across four continents.  
+-	Managed the design, development, and testing of Veraz SIP-I software used for proof of concept testing.  Completed successful IPX (IP eXchange) trial between Telecom New Zealand and Telekom Austria.  Trial tested interoperability of Veraz’s alpha release to process SIP-I protocol packets from Telekom Austria and complete IMS based calls on the Telecom New Zealand Mobile network.  Coordinated activities between teams from each company across four continents.  
 
 Senior Manager	July 2004 – June 2005
 AirSurf Wireless	San Mateo, CA
 Usability and scalability proof of concept pilots
-•	Planned and managed two greenfield controller-based WLAN infrastructure deployment pilots.  Activities included developing project plans, managing resources, RF site survey, procurement, structured cabling, access point and antenna installation and configuration, controller configuration, and RADIUS server configuration.  The pilots demonstrated proof of concept for security and usability of a single, partitioned 802.11 a/b/g network in multi-tenant commercial environment.  
+-	Planned and managed two greenfield controller-based WLAN infrastructure deployment pilots.  Activities included developing project plans, managing resources, RF site survey, procurement, structured cabling, access point and antenna installation and configuration, controller configuration, and RADIUS server configuration.  The pilots demonstrated proof of concept for security and usability of a single, partitioned 802.11 a/b/g network in multi-tenant commercial environment.  
