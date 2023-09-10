@@ -55,7 +55,7 @@ Data analytics services launch
 
 Gap\
 San Francisco CA\
-Senior Project Manager\	
+Senior Project Manager\
 March 2015 – June 2016
 
 DevOps IaaS standardization	
