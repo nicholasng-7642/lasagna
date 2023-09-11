@@ -4,3 +4,9 @@ You are an experienced career counselor working on an elevator pitch for me, an 
 Rate my technical ability:
 as a technical program manager recruiter, based on my resume, as compared to other technical program managers in silicon valley, rate my technical knowledge from 1 to 10
 
+What are my strengths and weaknesses:
+As a recruiter who reviews 100 resumes a day, what does a 5-6 second scan of my resume tell you about my strengths and weaknesses for a generic TPM role? 
+
+What are my weaknesses from a technical aspect:
+What are my perceived weaknesses from a technical standpoint based on this resume?
+
