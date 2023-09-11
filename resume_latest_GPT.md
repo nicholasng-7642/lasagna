@@ -11,8 +11,10 @@ Program Manager | Data Management Office | September 2022 - Present
 - Oversee DMO program budget, including invoice tracking, reconciliation, and budget meetings.
 - Facilitate budget planning for new projects and scope changes, including justifications and roadmaps.
 
-King Games San Francisco CA
-Senior Technical Program Manager September 2021 – August 2022
+King Games\
+Senior Technical Program Manager\
+September 2021 – August 2022
+
 Royalty VIP and Loyalty Program
 - Orchestrated and led cross-functional teams of up to 50 stakeholders, managing projects with budgets exceeding $1 million.
 + **Technical Accomplishment:** Directed and managed a team of 15+ technical experts, including engineers and data specialists, to evolve King's loyalty program, employing diverse strategies for enhanced player retention in the dynamic gaming landscape.
@@ -20,8 +22,10 @@ Royalty VIP and Loyalty Program
 + **Achievement Metrics:** Achieved significant month-over-month results in limited release: $400K monthly expenditure increase (10%); 70K unique monthly visitors (20% conversion); 90% return rate; 63K reward redemptions.
 + **Data Integration:** Pioneered an automated dashboard tracking critical OKRs, guiding marketing and feature strategies. Leveraged technical skills to integrate diverse data sources, enabling real-time insights for informed decision-making. Collaborated with data experts to ensure data accuracy and completeness, reinforcing the dashboard's reliability.
 
-Rally Health San Francisco CA
-Lead Technical Program Manager January 2019 – September 2021
+Rally Health\
+Lead Technical Program Manager\
+January 2019 – September 2021
+
 Medicare Fitness product launch
 - Directed and managed large cross-functional teams, comprising up to 50 stakeholders, and budgets exceeding $1 million for the successful launch of the RenewActive Medicare fitness program, a flagship initiative in the top ten portfolio of UHC. Through strategic implementation and execution, the program generated $215M in enrollment revenue for FY 2020.
 + **Technical Leadership:** Led a team of 20+ technical professionals in launching the RenewActive Medicare fitness program, utilizing cloud-native technologies, microservices architecture, and API integrations for scalability and performance.
@@ -40,16 +44,20 @@ PMO leadership team
 + **Leadership and Process Enhancement:** Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams from portfolio to delivery, optimizing collaboration and communication.
 + **Agile Alignment:** Ensured seamless alignment between SDLC and business processes through Agile methodology by establishing and maintaining a consistent onboarding process and centralized documentation.
 
-Box Redwood City CA
-Technical Program Manager April 2018 – November 2018
+Box\
+Technical Program Manager\
+April 2018 – November 2018
+
 Hardware engineering program launch
 - Established Box’s central hardware engineering program to manage the lifecycle of 30+ hardware configurations across 50+ services and drove research for solution and architecture adoption.
 + **Technical Program Establishment:** Established Box’s central hardware engineering program, utilizing principles of infrastructure as code (IaC) and automated configuration management for efficient management of 30+ hardware configurations across 50+ services.
 + **Cost Optimization:** Analyzed and initiated a $2M savings opportunity for Box. Reconfigured hardware to create a new storage SKU which performed 2x faster in a smaller footprint at 25% less cost. Created a two-year plan to map deployment, reallocation, and depreciation activities.
 + **Testing Efficiency:** Scaled out Box’s testing capacity by 3x leading to faster decision making. Shifted testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners. Reconfigured hardware test environments to align with production environments. Standardized the testing pipeline, automated benchmarking, and data reporting.
 
-MZ (formerly Machine Zone) Palo Alto CA
-Senior Technical Program Manager June 2016 – March 2018
+MZ (formerly Machine Zone)\ 
+Senior Technical Program Manager\
+June 2016 – March 2018
+
 Application resilience testing
 - Spearheaded the CTO initiative of production resiliency testing for all MZs games. The scope of failure injection included 15 production services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.
 + **Resiliency Testing Leadership:** Spearheaded the CTO initiative of production resiliency testing for all MZs games, encompassing 15 production services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M. Implemented chaos engineering practices to enhance application resilience.
@@ -61,8 +69,11 @@ Data analytics services launch
 + **Technology Stack Management:** Led the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included: Hadoop (HDP and MapR), Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau.
 + **Data Migration Expertise:** Managed the migration of 120+ data sets, 200+ workloads, and 100+ pipeline jobs.
 
-Gap San Francisco CA
-Senior Project Manager March 2015 – June 2016
+Gap\
+San Francisco CA\
+Senior Project Manager\ 
+March 2015 – June 2016\
+
 DevOps IaaS standardization
 - Directed the standardization of GapTech’s Chef IaaS platform and configurations. Eliminated technical debt and aligned all infrastructure deployments between the stores, e-commerce, and corporate business units.
 + **IaaS Standardization Leadership:** Directed the standardization of GapTech’s Chef IaaS platform and configurations, eliminating technical debt and aligning all infrastructure deployments between the stores, e-commerce, and corporate business units. Utilized infrastructure as code (IaC) principles.
