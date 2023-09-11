@@ -1,0 +1,6 @@
+Tell me about yourself:
+You are an experienced career counselor working on an elevator pitch for me, an experienced TPM. Write me an effective "Tell me about yourself answer".  Highlight my soft skills first then my technical skills. Here is my resume:
+
+Rate my technical ability:
+as a technical program manager recruiter, based on my resume, as compared to other technical program managers in silicon valley, rate my technical knowledge from 1 to 10
+
