@@ -1,6 +1,21 @@
 Tell me about yourself:
 You are an experienced career counselor working on an elevator pitch for me, an experienced TPM. Write me an effective "Tell me about yourself answer".  Highlight my soft skills first then my technical skills. Here is my resume:
 
+ChatGPT said (https://chat.openai.com/share/16d27c4b-ecd8-4ebe-8a1b-b170fd8f781d)
+Certainly, crafting an effective "Tell me about yourself" answer is crucial for a successful interview. Here's a compelling elevator pitch for you, highlighting your soft skills first and then your technical skills:
+
+"Absolutely, I'd be happy to share a bit about myself. Throughout my career as a Technical Program Manager, I've consistently demonstrated a unique blend of leadership, adaptability, and collaboration that sets me apart. My passion for fostering strong team dynamics and driving results has been a cornerstone of my professional journey.
+
+I'm known for my ability to bring together diverse groups of stakeholders, often numbering in the dozens, to work cohesively towards a common goal. Whether it was leading cross-functional teams for the successful launch of flagship initiatives or consolidating disparate engineering activities into cohesive programs, my knack for effective communication and relationship-building has been instrumental.
+
+One of my strengths lies in strategic thinking and problem-solving. I've frequently been entrusted with high-impact projects, like evolving loyalty programs in dynamic industries or pioneering automation dashboards to guide decision-making. I've used my technical acumen to integrate complex data sources, ensuring real-time insights for informed strategies. My commitment to data accuracy and completeness has reinforced the reliability of these dashboards.
+
+Speaking of my technical skills, I've honed them over the years in diverse settings. From leading end-to-end technical implementations involving tech stack migrations and cloud provider transitions to managing large-scale hardware engineering programs, I've always embraced the opportunity to learn and adapt to new technologies.
+
+My experience includes handling significant budgets, such as exceeding $1 million for product launches, and generating substantial revenue gains, as evidenced by the $215 million generated during the Medicare Fitness program launch.
+
+In summary, my journey as a Technical Program Manager reflects a unique combination of soft skills, such as leadership, adaptability, and collaboration, that have consistently complemented my robust technical skills. I believe this blend positions me as a valuable asset to any team or organization, capable of not only driving successful project outcomes but also fostering a positive and productive work environment."
+
 Rate my technical ability:
 as a technical program manager recruiter, based on my resume, as compared to other technical program managers in silicon valley, rate my technical knowledge from 1 to 10
 
