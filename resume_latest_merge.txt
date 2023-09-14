@@ -4,10 +4,10 @@ Apple	Cupertino CA
 Program Manager	September 2022 - Present
 Data Management Office
 
-•   Write executive-level status updates with information collated from scrum leads for cross-track meetings.
+•   lWrite executive-level status updates with information collated from scrum leads for cross-track meetings.
 •	Deliver status updates to executives and other senior leaders.
 •	Handle RAID (Risk, Action, Issue, Decision) log creation, maintenance, and follow up with relevant cross-functional teams.
-•	Maintains program timeline in Wrike tool as well as oversee scrum team/sprint alignment with program timeline.
+•	Maintains program timeine in Wrike tool as well as oversee scrum team/sprint alignment with program timeline.
 •	Coordinate with other program PMs to resolve issues called out in cross-track meetings, and work with them to ensure healthy alignment while managing the escalation path to track leadership for unresolved/larger issues. Be our DMO point of contact to identify, document, and drive resolution of project issues.
 •	Manage DMO’s project risk throughout the life of the project.
 •	Manage DMO program budget: invoice tracking, reconciliation, following up with managers
