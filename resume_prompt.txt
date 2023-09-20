@@ -20,11 +20,15 @@ As a recruiter who reviews 100 resumes a day, what does a 5-6 second scan of my 
 What are my weaknesses from a technical aspect:
 What are my perceived weaknesses from a technical standpoint based on this resume?
 
-Resume/experience fit: 
-Here is job description from a hiring manager in engineering looking for a TPM.  based on my resume , what is my fit from a scale from 1-10 with 10 being a great fit?  Here is the job description:
+Resume/experience fit:
+1. You are a recruiter for the position going through all the applicants.  Based on my resume and that job description 1. what is my fit for the role on a scale from 1 to 10 with 10 being the best and 2. what is your guess of my percentile among applicants?  here is my resume:
+2. Here is job description from a hiring manager in engineering looking for a TPM.  based on my resume , what is my fit from a scale from 1-10 with 10 being a great fit?  Here is the job description:
 
 Track changes in the resume:
 List out the differences between my original resume and your suggested draft in table format with two columns: original and updated. Be specific and list out everything that was changed down to the exact wording.  
 
 What are the most important things for the role?
 You are a technical recruiter with 10 years of experience and are looking for a first-round candidate. You are pitching the requirements and qualifications on a 30 second voicemail, highlight the 3 most important things for this job:  Here is the job description: 
+
+Checking my resume changes from GPT:
+You are an editor for the NY Times. List out the differences between my original resume and your suggested draft in table format with two columns: original and updated. be specific and list out exactly what was changed down the exact wording.  

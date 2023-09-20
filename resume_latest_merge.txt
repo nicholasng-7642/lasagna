@@ -34,6 +34,7 @@ Developer advocacy program
 PMO leadership team
 •	Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams from portfolio to delivery, optimizing collaboration and communication.
 •	Ensured alignment between SDLC, business processes, and Agile delivery by establishing and maintaining consistent onboarding processes, centralized documentation, teaming opportunities, and feedback collection. 
+
 Box 	Redwood City CA
 Technical Program Manager	April 2018 – December 2018
 Hardware engineering program launch
