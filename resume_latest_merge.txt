@@ -5,25 +5,31 @@ email: nicholas@nicholasng.me linkedin: linkedin.com/in/nicholasngtpm
 mobile: 510.333.6355 location: San Francisco
 
 EXPERIENCE
-Apple	San Francisco CA
-Staff Program Manager	September 2022 – May 2023
+Apple	
+San Francisco CA
+Staff Program Manager	
+September 2022 – May 2023
 Core Data Management
-•  Managed Data Management Office product roadmap and service requests from Apple worldwide sales to implement and maintain systems of Data Governance and Master Data Management (MDM) 
+•   Managed Data Management Office product roadmap and service requests from Apple worldwide sales to implement and maintain systems of Data Governance and Master Data Management (MDM) 
 •	Created the request process to address ad hoc, redundant, and incomplete requests. This process reduced the backlog by 33% by formalizing and prioritizing requirements. 
 •	Facilitated the team’s weekly road shows that communicated new product features and policy decisions.
 
-King Games	San Francisco CA
-Technical Program Manager	September 2021 – August 2022
+King Games	
+San Francisco CA
+Technical Program Manager	
+September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
 •	Evolved King's loyalty program, employing diverse strategies for enhanced player retention. 
 •	Led technical implementation of rewards website, including tech stack migration to Azure for scalability and security, utilizing Kubernetes for container orchestration.
 •	Achieved significant results over a 3-quarter controlled introduction: $400K monthly expenditure (+10%), 70K unique monthly visitors (90% return rate), and 63K reward redemptions (+20% conversion).
 •	Pioneered an automated dashboard for tracking KPIs, integrating diverse data sources, and collaborating with data experts for participant insights. 
 
-Rally Health	San Francisco CA
-Lead Technical Program Manager	January 2019 – September 2021
+Rally Health	
+San Francisco CA
+Lead Technical Program Manager	
+January 2019 – September 2021
 Medicare Fitness product launch
-•  Directed the successful launch of the RenewActive Medicare fitness program, a flagship initiative for UHC. The program generated $215M in enrollment revenue in the first year.
+•   Directed the successful launch of the RenewActive Medicare fitness program, a flagship initiative for UHC. The program generated $215M in enrollment revenue in the first year.
 •	Launched the program’s first digital campaign, collaborating closely with marketing, analytics, and strategic partners (Fitbit and AARP). Drove partner promotions, segment testing, GTM activities, and analytics which resulted in the acquisition of 750K new members.
 •	Led the design, development, and implementation of a multi-platform digital experience. Managed 15+ technical and non-technical teams to deliver features, including online registration, seamlessly integrated rewards programs, and empowered community interactions, resulting in elevated member satisfaction and strengthened connections.
 •	Launched a COVID MVP platform, granting exclusive access to 12K virtual and live-streaming classes from 12 content providers. The product expanded class opportunities and maintained health goals during lockdowns.  
@@ -34,15 +40,20 @@ Developer advocacy program
 PMO leadership team
 •	Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams from portfolio to delivery, optimizing collaboration and communication.
 •	Ensured alignment between SDLC, business processes, and Agile delivery by establishing and maintaining consistent onboarding processes, centralized documentation, teaming opportunities, and feedback collection. 
-Box 	Redwood City CA
-Technical Program Manager	April 2018 – December 2018
+
+Box 
+Redwood City CA
+Technical Program Manager	
+April 2018 – December 2018
 Hardware engineering program launch
 •	Established Box’s central hardware engineering program to centralize and standardize management of 30+ hardware configurations across 50+ services.
 •	Analyzed and initiated a $2M savings opportunity for Box. Reconfigured hardware to create a new storage SKU which performed 2x faster in a smaller footprint at 25% less cost. Created a two-year plan to map deployment, reallocation, and depreciation activities.
 •	Scaled out Box’s testing capacity by 3x leading to faster decision making. Shifted testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners. Reconfigured hardware test environments to align with production environments. Standardized the testing pipeline, automated benchmarking, and data reporting.
 
-MZ (formerly Machine Zone) 	Palo Alto CA
-Senior Technical Program Manager	June 2016 – March 2018
+MZ (formerly Machine Zone) 	
+Palo Alto CA
+Senior Technical Program Manager	
+June 2016 – March 2018
 Application resilience testing 
 •	Spearheaded the CTO initiative of production resiliency testing for all MZ games, encompassing 15 services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M. Implemented chaos engineering practices to detect faults.
 •	Managed the design and development for application and data testing. Coordinated support resources and companywide communications for live testing. Built a roadmap for service and infrastructure improvements which increased availability from 97.0% to 99.9% preserving $750K/month.
