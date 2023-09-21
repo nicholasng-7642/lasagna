@@ -48,7 +48,7 @@ April 2018 – December 2018
 Hardware engineering program launch
 •	Established Box’s central hardware engineering program to centralize and standardize management of 30+ hardware configurations across 50+ services.
 •	Analyzed and initiated a $2M savings opportunity for Box. Reconfigured hardware to create a new storage SKU which performed 2x faster in a smaller footprint at 25% less cost. Created a two-year plan to map deployment, reallocation, and depreciation activities.
-•	Scaled out Box’s testing capacity by 3x leading to faster decision making. Shifted testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners. Reconfigured hardware test environments to align with production environments. Standardized the testing pipeline, automated benchmarking, and data reporting.
+•	Scaled out Box’s testing capacity by 3x by shifting testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners. Reconfigured hardware test environments to align with production environments. Standardized the testing pipeline, automated benchmarking, and data reporting. This lead to 25% quicker decision making. 
 
 MZ (formerly Machine Zone) 	
 Palo Alto CA
