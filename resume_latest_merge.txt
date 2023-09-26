@@ -61,7 +61,7 @@ Application resilience testing
 Data analytics services launch
 •	Drove an executive initiative to deploy a data analytics pod to service MZ’s growing data collection and analysis requirements. The pod increased capability, capacity, and security to handle data feeds, pipeline services, data stores, and analytical and visualization toolsets.
 •	Led the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included: Hadoop, Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau.
-•	Managed the migration of 120+ data sets, 200+ workloads, and 100+ pipeline jobs.
+•	Managed the migration of 120+ data sets, 200+ workloads, and 100+ pipeline jobs, resulting in a seamless transition that led to a 30% reduction in data processing time and improved data accuracy 
 
 
 CERTIFICATIONS
