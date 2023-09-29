@@ -19,7 +19,7 @@ San Francisco CA
 Technical Program Manager	
 September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
-•	Evolved King's loyalty program, employing diverse strategies for enhanced player retention. 
+•	Evolved Candy Crush's loyalty program, employing diverse strategies for enhanced player retention. 
 •	Led technical implementation of rewards website, including tech stack migration to Azure for scalability and security, utilizing Kubernetes for container orchestration.
 •	Achieved significant results over a 3-quarter controlled introduction: $400K monthly expenditure (+10%), 70K unique monthly visitors (90% return rate), and 63K reward redemptions (+20% conversion).
 •	Pioneered an automated dashboard for tracking KPIs, integrating diverse data sources, and collaborating with data experts for participant insights. 
