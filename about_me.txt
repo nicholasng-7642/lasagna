@@ -1,0 +1,77 @@
+
+Tell me about yourself:
+Absolutely, I'd be happy to share a bit about myself. Throughout my career as a Technical Program Manager, I've consistently demonstrated a unique blend of leadership, adaptability, and collaboration that sets me apart. My passion for fostering strong team dynamics and driving results has been a cornerstone of my professional journey.
+I'm known for my ability to bring together diverse groups of stakeholders, often numbering in the dozens, to work cohesively towards a common goal. Whether it was leading cross-functional teams for the successful launch of flagship initiatives or consolidating disparate engineering activities into cohesive programs, my knack for effective communication and relationship-building has been instrumental.
+One of my strengths lies in strategic thinking and problem-solving. I've frequently been entrusted with high-impact projects, like evolving loyalty programs in dynamic industries or pioneering automation dashboards to guide decision-making. I've used my technical acumen to integrate complex data sources, ensuring real-time insights for informed strategies. My commitment to data accuracy and completeness has reinforced the reliability of these dashboards.
+Speaking of my technical skills, I've honed them over the years in diverse settings. From leading end-to-end technical implementations involving tech stack migrations and cloud provider transitions to managing large-scale hardware engineering programs, I've always embraced the opportunity to learn and adapt to new technologies.
+My experience includes handling significant budgets, such as exceeding $1 million for product launches, and generating substantial revenue gains, as evidenced by the $215 million generated during the Medicare Fitness program launch.
+In summary, my journey as a Technical Program Manager reflects a unique combination of soft skills, such as leadership, adaptability, and collaboration, that have consistently complemented my robust technical skills. I believe this blend positions me as a valuable asset to any team or organization, capable of not only driving successful project outcomes but also fostering a positive and productive work environment."
+
+Future
+
+Mistake
+
+Context:
+I made the decision to put my personal ambitions over my teams. I was part of a leadership rotation out of college, and a component of it for all participants was line management of CB employees. One pay period an employee did not receive her paycheck, and it was my responsibility as her manager to resolve the matter immediately. However, as part of being a program participant, I had an outside project with a pending deadline which I addressed first.  
+A formal complaint was brought to me because of my dereliction, and as I sat in room with the union representative, I came to understand that not everyone lives in the type A bubble and different circumstances exist for everyone; specifically that this paycheck was vital for her in ways I didn’t appreciate. 
+
+Action:
+What happened next informed my approach towards team building for my current career. By now I had made the decision to commit to the outside project and deferred her paycheck. 
+
+Result:
+I was lucky that in this instance; the employee and union were not vindictive, and accepted my apology and showed me the sympathy that I didn’t accord them. We worked together to resolve the situation, and while the mistake was mine to own, the rest of the team saw how we worked together to resolve this situation, and I was slowly able to gain their trust.  
+
+Learning:
+As I spent time navigating the system and partnering with my employee, I started to understand how soft skills that I needed to learn and develop were just as important to becoming a leader as much as any ability to calculate IRR, ROI, or any other technical competency.  So as part of  any endeavor I lead, I will price in as much time as I need to understand the motivations behind each contributor and communicate mine to them so that we can create trust between each other.  
+
+
+1. A strategic business partner
+Project managers who can offer higher-level strategic leadership skills, not just technical management skills, provide significant advantages for organizations of all sizes. Since the start of the pandemic in early 2020, there are far more complex factors, both internal and external, that can negatively impact projects of all types. Such factors include triple bottom line (economic, ecological, and social outcomes), legal and legislative restrictions, remote project issues, and international and cultural factors — not to mention significant resource constraints and delays.
+Factors such as these create additional hurdles that a project manager must contend with. If you don't have a strong understanding of how your project fits within the overall company-wide strategic goals, you significantly hamper your chances of delivering effective outcomes. Executive project management offices (EPMOs) focus on this connection and increase project, program, and portfolio success rates.
+2. Stakeholder-focused
+COVID-19 has devastated companies and individuals worldwide, making it difficult to focus on stakeholder needs versus personal and family hardships. Nonetheless, as professionals, good project managers can separate their personal needs from that of project stakeholders. They deliver their best job performance at all times, regardless of personal bias or needs. This is the level of focus that companies have come to rely on in the project management profession — and what makes top candidates stand out.
+3. Generous with credit to others
+The contributions of others strongly impact a project leader's effectiveness on his or her team. Highly effective project managers share credit for work well done and encourage all members to participate and contribute at their highest levels. Rather than try to be a jack of all trades, leverage others' knowledge and skills on the team. This simple but effective tactic will significantly increase the likelihood of achieving goals.
+4. A skilled motivator
+A project manager’s ability to communicate with and influence a variety of stakeholders is paramount to project success. After all, you need to find ways to motivate workers over whom you have no direct influence yet who can make or break a project. Instilling confidence in the minds of stakeholders and sponsors is necessary, particularly if and when there is a need to approach them with changes in the scope of the project. You must demonstrate respect for team members, stakeholders and sponsors at all times if you are to receive their respect in turn. It’s almost impossible for projects to progress in the right direction and on time without respect and motivation, especially from sponsors and stakeholders.
+5. Fully vested in success
+Highly effective project managers believe in their work, and they are fully vested in seeing a project from initiation to close. This mindset helps achieve the best results throughout the project. Be completely involved in all professional aspects of the project, its activities, and its people. Avoid overextending yourself if you want to maintain professional integrity and stakeholder satisfaction. John Paul Engel, president of Knowledge Capital Consulting, says engagement, resilience, and the ability to maintain a high level of both client and team satisfaction are the keys to generating results.
+6. Accountable and have integrity
+Not everything on a project will go as planned. Mistakes are to be expected, but it’s important to always accept when you are wrong and to learn from your mistakes. Being accountable for your decisions and actions is vital, and sends a strong message to the rest of the team. Paul Dillon, founder of Dillon Consulting Services, agrees: “Integrity, decisiveness, good judgment, the ability to form a vision and execute it, confidence in your own competence” are hallmarks of highly effective project managers. “Without the ability to be selfless, to put the needs and wants of others before your own, you will never get people to ‘follow you to a place where they wouldn't go to by themselves,’” Dillon says, quoting Joel A. Barker. “And that is why most people fail in leadership positions, I think, or can't do it at all.”
+7. An effective communicator
+Considering communication plays a significant role in managing projects, teams, and other stakeholders, it is the most critical skill. Communication doesn't just mean being a stellar facilitator, speaker, or writer; it requires good listening skills. Actively listening to what is being said — and not said — and taking context into account is of value. Listening to others' views and taking into account their experiences and knowledge helps to reduce potential conflict and risks due to blind spots and increases the likelihood of project success.
+8. A well-respected leader
+Although you cannot please everyone, having an established reputation as a well-respected leader typically means that you've earned it through hard work. If you're new to project management, this will take time. Working to become an effective communicator, vesting in the success of your stakeholders, and maintaining accountability and integrity, among other things, can help get you there faster. Once there, it is much easier to lead projects and teams more effortlessly.
+9. An agent of change
+If 2020 has taught us anything, change is inevitable and can be highly disruptive to all areas of business and personal life — and project management is no exception. Highly effective project managers understand this, embrace it, and build elements of uncertainty into their project plans. They also recognize the need to work closely with change management experts to help stakeholders adapt to change and better prepare for the future state of things — and working in the gray. 
+10. Work in the gray
+All of the previously mentioned attributes speak for themselves, but what truly sets a project manager apart is his or her ability to work in the gray. This is a must-have skill since the majority of projects, regardless of type, industry, size, or complexity, will have gray areas you will need to navigate at some point. Issues with external constraints and complexities, remote project limitations, conflict and ambiguity — these and other uncertainties will almost certainly be encountered. Joyce Wilson-Sanford, an executive coach, consultant, and writer at JWS Consulting and Read Joyce, says the ability to approach change in an organization, to see when a project is in trouble or can cause trouble, and to not get rattled by delay or crisis or budget cuts is key. Project managers with high technical and high people skills is a tough combination to find, she says. And when you combine those with the ability to work in the gray, you are a very effective project manager indeed.
+Own and engage in the Partner Integration process by coordinating cross-functional teams to ensure that the business plan is properly implemented.  
+
+
+Build partnerships across all business units that will impact the partner portfolio 
+* Visualize the outcomes and work iteratively with major stakeholders as to who contributes to successful implementation. Align the visions to reduce the chaos. Use vehicles like MBRs and QBRs
+* Create expectations around cadence of communication and decision making. 
+
+Effectively document and communicate program/project status for leadership reviews. 
+* Use status reporting on a regular basis for leadership. Focus on basic information that’s actionable by leaders. Risks, Actions, Issues, Decisions
+* Make sure that there are no surprises leading up to reporting 
+* Include metrics to show progress directionally.
+Effectively deploy and organize resources, developing timetables and targets and checking progress against them.  
+* Invest as much upfront between upstream and downstream groups as possible to baseline the expectations.  
+* Use project management tooling that can be shared with all team members and counterbalance that with an immense amount of participation/engagement. 
+* Understand directionally if something is headed in the right way or if intervention is needed.  
+Create a comprehensive plan with partners and internal stakeholders for a successful delivery of the program. 
+* Anchor with documentation what the initial deliverables will be and the justification for why this benefits the organization.  
+* Reserve the right to change this via the MBRs and QBRs as those are forums where business decisions are to be shared.  
+Help develop, maintain and continually update Rivian’s partner integration playbook. 
+
+
+Coordinate with internal and external teams to develop project plans, goals and milestones for empowering our customers to access Rivian’s products and services across multiple channels 
+Track milestones, progress, dependencies and issues closely while communicating effectively to leadership and stakeholders 
+Raise the bar in the organization by being a role model in identifying issues, owning and implementing improvements proactively 
+* Understand the issue and prepare ways to address it before calling people into expensive meetings.  
+Consolidate disparate program information and data into a centralized area 
+Lead planning exercises across teams when needed 
+Manage strategically prioritized cross-functional programs based on the business needs 
+
