@@ -4,7 +4,7 @@ You are an experienced career counselor working on an elevator pitch for me, an 
 ChatGPT said (https://chat.openai.com/share/16d27c4b-ecd8-4ebe-8a1b-b170fd8f781d)
 Certainly, crafting an effective "Tell me about yourself" answer is crucial for a successful interview. Here's a compelling elevator pitch for you, highlighting your soft skills first and then your technical skills:
 
-"Absolutely, I'd be happy to share a bit about myself. Throughout my career as a Technical Program Manager, I've consistently demonstrated a unique blend of leadership, adaptability, and collaboration that sets me apart. My passion for fostering strong team dynamics and driving results has been a cornerstone of my professional journey.
+"I'd be happy to share a bit about myself. Throughout my career as a Technical Program Manager, I've consistently demonstrated a unique blend of leadership, adaptability, and collaboration that sets me apart. My passion for fostering strong team dynamics and driving results has been a cornerstone of my professional journey.
 I'm known for my ability to bring together diverse groups of stakeholders, often numbering in the dozens, to work cohesively towards a common goal. Whether it was leading cross-functional teams for the successful launch of flagship initiatives or consolidating disparate engineering activities into cohesive programs, my knack for effective communication and relationship-building has been instrumental.
 One of my strengths lies in strategic thinking and problem-solving. I've frequently been entrusted with high-impact projects, like evolving loyalty programs in dynamic industries or pioneering automation dashboards to guide decision-making. I've used my technical acumen to integrate complex data sources, ensuring real-time insights for informed strategies. My commitment to data accuracy and completeness has reinforced the reliability of these dashboards.
 Speaking of my technical skills, I've honed them over the years in diverse settings. From leading end-to-end technical implementations involving tech stack migrations and cloud provider transitions to managing large-scale hardware engineering programs, I've always embraced the opportunity to learn and adapt to new technologies.
@@ -12,7 +12,7 @@ My experience includes handling significant budgets, such as exceeding $1 millio
 In summary, my journey as a Technical Program Manager reflects a unique combination of soft skills, such as leadership, adaptability, and collaboration, that have consistently complemented my robust technical skills. I believe this blend positions me as a valuable asset to any team or organization, capable of not only driving successful project outcomes but also fostering a positive and productive work environment."
 
 Rate my technical ability:
-as a technical program manager recruiter, based on my resume, as compared to other technical program managers in silicon valley, rate my technical knowledge from 1 to 10
+as a technical program manager recruiter, based on my resume, as compared to other technical program managers in Silicon Valley, rate my technical knowledge from 1 to 10
 
 What are my strengths and weaknesses:
 As a recruiter who reviews 100 resumes a day, what does a 5-6 second scan of my resume tell you about my strengths and weaknesses for a generic TPM role? 
@@ -22,13 +22,13 @@ What are my perceived weaknesses from a technical standpoint based on this resum
 
 Resume/experience fit:
 1. You are a recruiter for the position going through all the applicants.  Based on my resume and that job description 1. what is my fit for the role on a scale from 0 to 10 with 10 being the best and 2. what is your guess of my percentile among applicants?  I will provide my resume first then the job description. Do you understand? 
-2. Here is job description from a hiring manager in engineering looking for a TPM.  based on my resume , what is my fit from a scale from 1-10 with 10 being a great fit?  Here is the job description:
+2. Here is the job description from a hiring manager in engineering looking for a TPM. Based on my resume, what is my fit on a scale from 1-10 with 10 being a great fit?  Here is the job description:
 
 Track changes in the resume:
 List out the differences between my original resume and your suggested draft in table format with two columns: original and updated. Be specific and list out everything that was changed down to the exact wording.  
 
 What are the most important things for the role?
-You are a technical recruiter with 10 years of experience and are looking for a first-round candidate. You are pitching the requirements and qualifications on a 30 second voicemail, highlight the 3 most important things for this job:  Here is the job description: 
+You are a technical recruiter with 10 years of experience and are looking for a first-round candidate. You are pitching the requirements and qualifications on a 30-second voicemail, highlight the 3 most important things for this job:  Here is the job description: 
 
 Checking my resume changes from GPT:
 You are an editor for the NY Times. List out the line-by-line differences between my original resume and your suggested draft in table format with four columns: original, updated, type of change (add, remove, edit), and reason for change. In the reason for change column, be specific about the impact (e.g. the <insert type of change> was made because it highlights your <insert skill>)
