@@ -21,7 +21,7 @@ What are my weaknesses from a technical aspect:
 What are my perceived weaknesses from a technical standpoint based on this resume?
 
 Resume/experience fit:
-1. You are a recruiter for the position going through all the applicants.  Based on my resume and that job description 1. what is my fit for the role on a scale from 1 to 10 with 10 being the best and 2. what is your guess of my percentile among applicants?  I will provide the job description first then I will give you my resume. Do you understand? 
+1. You are a recruiter for the position going through all the applicants.  Based on my resume and that job description 1. what is my fit for the role on a scale from 0 to 10 with 10 being the best and 2. what is your guess of my percentile among applicants?  I will provide my resume first then the job description. Do you understand? 
 2. Here is job description from a hiring manager in engineering looking for a TPM.  based on my resume , what is my fit from a scale from 1-10 with 10 being a great fit?  Here is the job description:
 
 Track changes in the resume:
