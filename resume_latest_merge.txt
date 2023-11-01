@@ -1,9 +1,3 @@
-#this is the one with the word.doc text until we can figure out how to conver word to markdown
-
-Nicholas Ng
-email: nicholas@nicholasng.me linkedin: linkedin.com/in/nicholasngtpm
-mobile: 510.333.6355 location: San Francisco
-
 EXPERIENCE
 Apple	
 San Francisco CA
