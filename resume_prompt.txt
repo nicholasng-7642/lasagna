@@ -32,3 +32,28 @@ You are a technical recruiter with 10 years of experience and are looking for a 
 
 Checking my resume changes from GPT:
 You are an editor for the NY Times. List out the line-by-line differences between my original resume and your suggested draft in table format with four columns: original, updated, type of change (add, remove, edit), and reason for change. In the reason for change column, be specific about the impact (e.g. the <insert type of change> was made because it highlights your <insert skill>)
+ 
+Based on the experience section in my resume, create a list of skills to present in the skills section. Present it in a table form with 4 columns: skill, type of skill (technical/languages/soft), how to present, and which part of my experience it's derived from. Do you understand?
+Based on the experience section in your resume, I've extracted the relevant skills and organized them into a table with four columns as requested. Please note that I've made educated guesses about the types of skills and how to present them based on the context you provided.
+
+| Skill                                     | Type of Skill | How to Present                            | Derived from Experience                                      |
+|------------------------------------------|---------------|-----------------------------------------|-------------------------------------------------------------|
+| Data Governance and Master Data Management | Technical     | Implemented Data Governance and MDM systems, created request process, facilitated team road shows. | Apple, Core Data Management                             |
+| Project Management                        | Soft          | Managed product roadmaps, prioritized requirements, and facilitated team communication. | Apple, Core Data Management                             |
+| Program Management                        | Soft          | Managed product roadmaps, prioritized requirements, and facilitated team communication. | Apple, Core Data Management                             |
+| Technical Program Management              | Technical     | Led technical implementation of rewards website, tech stack migration to Azure, and Kubernetes utilization. | King Games, Candy Crush VIP and Loyalty Program          |
+| Kubernetes                               | Technical     | Utilized Kubernetes for container orchestration. | King Games, Candy Crush VIP and Loyalty Program          |
+| Project Leadership                        | Soft          | Led technical implementation, achieved results, and pioneered KPI tracking dashboard. | King Games, Candy Crush VIP and Loyalty Program          |
+| Product Launch                            | Technical     | Directed the successful launch of the RenewActive Medicare fitness program. | Rally Health, Medicare Fitness product launch            |
+| Digital Marketing                         | Technical     | Launched the program's first digital campaign, collaborated with partners, and managed GTM activities. | Rally Health, Medicare Fitness product launch            |
+| Agile Development                         | Technical     | Ensured alignment between SDLC, business processes, and Agile delivery. | Rally Health, Developer advocacy program                 |
+| DevOps                                   | Technical     | Consolidated engineering activities into DevOps programs and led migration to Helm charts and GitHub actions. | Rally Health, Developer advocacy program                 |
+| Process Optimization                      | Technical     | Consolidated engineering activities into DevOps programs, optimized resource allocation, and streamlined development pipelines. | Rally Health, Developer advocacy program                 |
+| Hardware Engineering                      | Technical     | Established a central hardware engineering program, analyzed savings opportunities, and scaled out testing capacity. | Box, Hardware engineering program launch                 |
+| Cost Optimization                         | Technical     | Analyzed and initiated a $2M savings opportunity by reconfiguring hardware. | Box, Hardware engineering program launch                 |
+| Chaos Engineering                         | Technical     | Implemented chaos engineering practices for production resiliency testing. | MZ, Application resilience testing                      |
+| Data Analytics                            | Technical     | Deployed a data analytics pod, managed the migration of data sets and pipeline jobs. | MZ, Data analytics services launch                       |
+| Big Data Technologies                     | Technical     | Managed the deployment of hardware and applications including Hadoop, Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau. | MZ, Data analytics services launch                       |
+| Project Migration                         | Technical     | Managed the migration of data sets, workloads, and pipeline jobs, resulting in a 30% reduction in data processing time. | MZ, Data analytics services launch                       |
+
+Please review the table and make any necessary adjustments based on your specific experiences and the skills you want to highlight in your resume's skills section.:
