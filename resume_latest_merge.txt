@@ -71,7 +71,7 @@ SKILLS
 •	Stakeholder management
 •	CI/CD	
 •	DevOps/SRE
-•	Cloud computing
+•	Cloud computing - AWS, Azure
 •	Data science
 •	Hardware/datacenter	
 •	System design
