@@ -1,9 +1,3 @@
-#this is the one with the word.doc text until we can figure out how to conver word to markdown
-
-Nicholas Ng
-email: nicholas@nicholasng.me linkedin: linkedin.com/in/nicholasngtpm
-mobile: 510.333.6355 location: San Francisco
-
 EXPERIENCE
 Apple	
 San Francisco CA
@@ -19,7 +13,7 @@ San Francisco CA
 Technical Program Manager	
 September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
-•	Evolved King's loyalty program, employing diverse strategies for enhanced player retention. 
+•	Evolved Candy Crush's loyalty program, employing diverse strategies for enhanced player retention. 
 •	Led technical implementation of rewards website, including tech stack migration to Azure for scalability and security, utilizing Kubernetes for container orchestration.
 •	Achieved significant results over a 3-quarter controlled introduction: $400K monthly expenditure (+10%), 70K unique monthly visitors (90% return rate), and 63K reward redemptions (+20% conversion).
 •	Pioneered an automated dashboard for tracking KPIs, integrating diverse data sources, and collaborating with data experts for participant insights. 
@@ -61,7 +55,7 @@ Application resilience testing
 Data analytics services launch
 •	Drove an executive initiative to deploy a data analytics pod to service MZ’s growing data collection and analysis requirements. The pod increased capability, capacity, and security to handle data feeds, pipeline services, data stores, and analytical and visualization toolsets.
 •	Led the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included: Hadoop, Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau.
-•	Managed the migration of 120+ data sets, 200+ workloads, and 100+ pipeline jobs.
+•	Managed the migration of 120+ data sets, 200+ workloads, and 100+ pipeline jobs, resulting in a seamless transition that led to a 30% reduction in data processing time and improved data accuracy 
 
 
 CERTIFICATIONS
