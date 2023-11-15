@@ -15,7 +15,7 @@ September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
 • Led technical launch of the rewards site to engage high-value players and increase in-game play, spending on new products, and retention. Collaborated with Candy Crush, loyalty product, UX/UI, and engineering teams to deliver a digital storefront, exclusive player content, and dashboarding features.
 • Achieved results over a 9-month pilot that exceeded projections, including $400K monthly bookings (+10%), 70K unique monthly visitors (+25% return rate), and 63K reward redemptions (+20% conversion).
-• Pioneered an automated dashboard for tracking participant KPIs by integrating diverse data sources and collaborating with data experts. The data shaped a roadmap which increased engagement metrics (NPS, visits, and time on site) by 10% each month.
+• Pioneered an automated dashboard for tracking participant KPIs by integrating diverse data sources with a visualization application. The data shaped a roadmap that increased engagement metrics (NPS, visits, and time on site) by 10% each month.
 
 Rally Health
 San Francisco CA
@@ -53,6 +53,7 @@ Application resilience testing
 • Spearheaded the CTO initiative of production resiliency testing for MZ games, encompassing 15 services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.
 • Managed the design and development for application and data testing, coordinating support resources and companywide communications for live site testing.
 • Built and excuted a roadmap for application and infrastructure improvements, increasing availability from 97.0% to 99.0% and preserving $750K/month.
+
 Data analytics services launch
 • Initiated and executed an executive initiative to deploy a data analytics pod to enrich data collection and analytical capabilities. The pod increased capacity, security, and efficiency in handling data feeds, pipeline services, data stores, and reporting toolsets.
 • Orchestrated the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included Hadoop, Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau.
