@@ -5,7 +5,7 @@ Staff Program Manager
 September 2022 – May 2023
 Core Data Management
 • Managed Data Management Office product roadmap and service requests from Apple worldwide sales to implement and maintain systems of Data Governance and Master Data Management (MDM)
-• Created the request process to address ad hoc, redundant, and incomplete requests. This process reduced the backlog by 33% and increased delivery by 25% by formalizing requirements.
+• Created the request process to address ad hoc, redundant, and incomplete requests. By formalizing requirements and narrowing scope, the backlog was reduced by 33%, and delivery time improved by 25%.
 • Facilitated the team’s weekly, global discussion forum that communicated new product features and policy decisions to the sales organization.
 
 King Games
@@ -28,12 +28,12 @@ Medicare Fitness product launch
 • Launched a media portal to address COVID restrictions, providing access to 12K virtual and live-streaming classes from multiple content providers to help members maintain health goals.
 
 Developer advocacy program
-• Consolidated 100+ disparate engineering activities into 6 cohesive DevOps programs, optimizing resource allocation and streamlining development pipelines under a new engineering org structure to save $1M annually.
+• Saved $1M annually by consolidating 100+ engineering activities into 6 cohesive DevOps programs, optimizing resource allocation, and streamlining development pipelines under a new engineering org structure.
 • Deployed Stack Overflow for Teams and developed processes to build a scalable knowledge base for the growing engineering department.
 • Led 5 pilot teams to switch from an internal CI/CD pipeline to Helm charts and GitHub actions, which reduced cycle times from an average of 2 weeks to 1.5 days.
 
 PMO leadership team
-• Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams, continually optimizing collaboration and communication.
+• Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams, contiuously optimizing collaboration and communication.
 • Ensured alignment between SDLC, business processes, and Agile delivery by establishing and maintaining consistent onboarding processes, centralized documentation, teaming opportunities, and feedback collection.
 
 Box
