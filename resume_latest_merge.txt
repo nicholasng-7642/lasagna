@@ -5,7 +5,7 @@ Staff Program Manager
 September 2022 – May 2023
 Core Data Management
 • Managed Data Management Office product roadmap and service requests from Apple worldwide sales to implement and maintain systems of Data Governance and Master Data Management (MDM)
-• Created the request process to address ad hoc, redundant, and incomplete requests. By formalizing requirements and narrowing scope, the backlog was reduced by 33%, and delivery time improved by 25%.
+• Created the request process to address ad hoc, redundant, and incomplete requests. Formalizing requirements and narrowing the feature request scope reduced the backlog by 33% and improved delivery time by 25%.
 • Facilitated the team’s weekly, global discussion forum that communicated new product features and policy decisions to the sales organization.
 
 King Games
