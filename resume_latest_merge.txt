@@ -3,8 +3,8 @@ Apple
 San Francisco CA
 Staff Program Manager
 September 2022 – May 2023
-Core Data Management
-• Managed Data Management Office product roadmap and service requests from Apple worldwide sales to implement and maintain systems of Data Governance and Master Data Management (MDM)
+Core Data Management - World Wide Sales
+• Managed the product roadmap and service requests from Apple worldwide sales to implement and maintain systems of Data Governance and Master Data Management (MDM)
 • Created the request process to address ad hoc, redundant, and incomplete requests. Formalizing requirements and narrowing the feature request scope reduced the backlog by 33% and improved delivery time by 25%.
 • Facilitated the team’s weekly, global forum to communicate new product features and policy decisions to the sales organization.
 
@@ -13,7 +13,7 @@ San Francisco CA
 Technical Program Manager
 September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
-• Led technical launch of the rewards site to engage high-value players and increase in-game play, spending on new products, and retention. Collaborated with Candy Crush, loyalty product, UX/UI, and engineering teams to deliver a digital storefront, exclusive player content, and dashboarding features.
+• Led the technical launch of the rewards site to engage high-value players and increase in-game play, spending on new products, and retention. Collaborated with Candy Crush, loyalty product, UX/UI, and engineering teams to deliver a digital storefront, exclusive player content, and dashboarding features.
 • Achieved results over a 9-month pilot that exceeded projections, including $400K monthly bookings (+10%), 70K unique monthly visitors (+25% return rate), and 63K reward redemptions (+20% conversion).
 • Pioneered an automated dashboard for tracking participant KPIs by integrating diverse data sources with a visualization application. The data led marketing and product decisions that increased engagement metrics (NPS, visits, and time on site) by 10% each month.
 
