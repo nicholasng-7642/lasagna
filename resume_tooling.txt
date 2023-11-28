@@ -1,0 +1,73 @@
+EXPERIENCE
+Apple
+San Francisco CA
+Staff Program Manager
+September 2022 – May 2023
+Core Data Management - World Wide Sales
+• Stibo, Jira, Confluence, Quip, Box, Snowflake, Collibra
+
+King Games
+San Francisco CA
+Technical Program Manager
+September 2021 – August 2022
+Candy Crush VIP and Loyalty Program
+• 
+
+Rally Health
+San Francisco CA
+Lead Technical Program Manager
+January 2019 – September 2021
+Medicare Fitness product launch
+• 
+
+Developer advocacy program
+• 
+
+PMO leadership team
+• 
+
+Box
+Redwood City CA
+Technical Program Manager
+April 2018 – December 2018
+Hardware engineering program launch
+• 
+
+MZ (formerly Machine Zone)
+Palo Alto CA
+Senior Technical Program Manager
+June 2016 – March 2018
+Application resilience testing
+• Spearheaded the CTO initiative of production resiliency testing for MZ games, encompassing 15 services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.
+• Managed the design and development for application and data testing, coordinating support resources and companywide communications for live site testing.
+• Built and executed a roadmap for application and infrastructure improvements, increasing availability from 97.0% to 99.0% and preserving $750K/month.
+
+Data analytics services launch
+• Initiated and executed an executive initiative to deploy a data analytics pod to enrich data collection and analytical capabilities. The pod increased capacity, security, and efficiency in handling data feeds, pipeline services, data stores, and reporting toolsets.
+• Orchestrated the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included Hadoop, Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau.
+• Oversaw the migration of 120+ datasets, 200+ workloads, and 100+ pipeline jobs, resulting in a seamless transition that reduced data processing time by 30% and enhanced data accuracy.
+
+CERTIFICATIONS
+Project Management Institute - Project Management Professional PMP (1392223) (expired Feb 2020)
+AXELOS - ITIL V3 Foundations
+
+SKILLS
+•	Program management
+•	Portfolio management
+•	Product management
+•	SDLC
+•	Agile leadership
+•	Stakeholder management
+•	CI/CD
+•	DevOps/SRE
+•	Cloud computing
+•	Data science
+•	Hardware/datacenter
+•	System design
+•	KPI tracking
+•	Roadmap management
+•	Budget management
+
+
+ EDUCATION
+ University of California at Berkeley - B.A. Economics
