@@ -11,7 +11,7 @@ San Francisco CA
 Technical Program Manager
 September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
-• Jira, Confluence, Sharepoint, Omniplan, Braze, ContentStack (CMS), Adyen (Third party payments)
+• Jira, Confluence, Sharepoint, Omniplan, Braze, ContentStack (CMS), Adyen (Third party payments), Material UI
 
 
 Rally Health
