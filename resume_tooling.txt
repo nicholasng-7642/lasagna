@@ -11,7 +11,7 @@ San Francisco CA
 Technical Program Manager
 September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
-• Jira, Confluence, Sharepoint, Omniplan, Braze, ContentStack (CMS), Adyen (Third party payments), Material UI
+• Jira, Confluence, Sharepoint, Omniplan, Braze, ContentStack (CMS), Adyen (Third party payments), Vertex (tax calculation), Google Analytics, Lighthouse, Sketch (UI/UX), Invision, Material UI
 
 
 Rally Health
@@ -19,7 +19,8 @@ San Francisco CA
 Lead Technical Program Manager
 January 2019 – September 2021
 Medicare Fitness product launch
-• Jira, Confluence, Gsuite, React, MongoDB, Elasticsearch, MySQL, React, React Native (for mobile development), Invision, Google Analytics, Adobe Experience Manger, Cloudflare
+• Jira, Confluence, Gsuite, React, MongoDB, Elasticsearch, MySQL, React, React Native (for mobile development), Invision, Google Analytics, Adobe Experience Manger, Cloudflare, Postgres
+
 
 Developer advocacy program
 • Jira, Confluence, AWS, GitHub, K8 deployed in AWS, Splunk, Terraform, AWS Fargate, Jenkins, Artifactory, AWS RDS, 
@@ -39,10 +40,10 @@ Palo Alto CA
 Senior Technical Program Manager
 June 2016 – March 2018
 Application resilience testing
-• MySQL, PHP,
+• MySQL, PHP, Puppet, SaltStack, RedisDB, Postgres
 
 Data analytics services launch
-• 
+• ELK stack, Hadoop/HDFS, Vertica, Druid, Kafka, Spark, Storm, Kylo, Kibana, Tableau
 
 CERTIFICATIONS
 Project Management Institute - Project Management Professional PMP (1392223) (expired Feb 2020)
