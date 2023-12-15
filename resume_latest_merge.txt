@@ -30,7 +30,7 @@ Medicare Fitness product launch
 Developer advocacy program
 • Saved $1M annually by consolidating 100+ engineering activities into 6 cohesive DevOps programs, optimizing resource allocation, and streamlining development pipelines under a new engineering org structure.
 • Deployed Stack Overflow for Teams and developed processes to build a scalable knowledge base for the growing engineering department.
-• Guided 5 pilot teams to switch from an internal CI/CD pipeline to Helm charts and GitHub actions, which reduced cycle times from an average of 2 weeks to 1.5 days.
+• Guided 5 pilot teams to switch from an homegrown CI/CD pipeline to Helm charts and GitHub actions, which reduced cycle times from an average of 2 weeks to 1.5 days.
 
 PMO leadership team
 • Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams, continuously optimizing collaboration and communication.
@@ -43,7 +43,7 @@ April 2018 – December 2018
 Hardware engineering program launch
 • Established Box’s centralized hardware engineering program to consolidate and standardize the management of 30+ hardware configurations across 50+ services.
 • Analyzed and initiated a $2M savings opportunity for Box, reconfiguring hardware to create a new storage SKU that performed 2x faster at 25% less TCO.
-• Scaled out hardware testing capacity by 3x by shifting the testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners, leading to 25% quicker decision-making.
+• Tripled hardware evaluation capacity by shifting the testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners, leading to 25% quicker decision-making.
 
 MZ (formerly Machine Zone)
 Palo Alto CA
