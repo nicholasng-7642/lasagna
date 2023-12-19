@@ -4,8 +4,8 @@ San Francisco CA
 Staff Program Manager
 September 2022 – May 2023
 Core Data Management - World Wide Sales
-• Oversaw the product roadmap and service requests from Apple worldwide sales to implement and maintain systems of Data Governance and Master Data Management (MDM)
-• Developed the request process to address ad hoc, redundant, and incomplete requests. Formalizing requirements and narrowing the feature request scope reduced the backlog by 33% and improved delivery time by 25%.
+• Managed the product roadmap and service requests from Apple worldwide sales to implement and maintain systems of Data Governance and Master Data Management (MDM)
+• Streamlined the request process to address ad hoc, redundant, and incomplete requests. Formalizing requirements and narrowing the feature request scope reduced the backlog by 33% and improved delivery time by 25%.
 • Facilitated the team’s weekly, global forum to communicate new product features and policy decisions to the sales organization.
 
 King Games
@@ -13,9 +13,9 @@ San Francisco CA
 Technical Program Manager
 September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
-• Directed the technical launch of the rewards site, enhancing player engagement, in-game spending, and retention. Collaborated with Candy Crush, loyalty product, UX/UI, and engineering teams to deliver a digital storefront, exclusive player content, and dashboarding features.
-• Delivered a 9-month pilot exceeding projections: $400K monthly bookings (+10%), 70K unique monthly visitors (+25% return rate), and 63K reward redemptions (+20% conversion).
-• Developed the program dashboard for tracking participant KPIs by integrating diverse data sources with a visualization application. The data led marketing and product decisions that increased engagement metrics (NPS, visits, and time on site) by 10% each month.
+• Orchestrated the technical launch of the rewards site, enhancing player engagement, in-game spending, and retention. Collaborated with Candy Crush, loyalty product, UX/UI, and engineering teams to deliver a digital storefront, exclusive player content, and dashboarding features.
+• Exceeded projections with the 9-month pilot: $400K monthly bookings (+10%), 70K unique monthly visitors (+25% return rate), and 63K reward redemptions (+20% conversion).
+• Engineered a program dashboard for tracking participant KPIs by integrating diverse data sources with a visualization application. The data led marketing and product decisions that increased engagement metrics (NPS, visits, and time on site) by 10% each month.
 
 Rally Health
 San Francisco CA
@@ -23,17 +23,17 @@ Lead Technical Program Manager
 January 2019 – September 2021
 Medicare Fitness product launch
 • Orchestrated the successful launch of the Medicare fitness program, generating $215M in enrollment revenue in the first year.
-• Launched the digital ad campaign, collaborating with marketing, analytics, and strategic partners (Fitbit and AARP) to manage content and channel distribution. Efforts resulted in the acquisition of 750K members.
-• Led the development and implementation of a new fitness application, overseeing 15+ cross-functional teams. Delivery of features, services, and content led to utilization (+2%) and satisfaction (NPS +5%) over projections.
-• Launched a media portal to address COVID restrictions, providing access to 12K virtual and live-streaming classes from multiple content providers to help members maintain health goals.
+• Led the development of a new fitness application, overseeing 15+ cross-functional teams. Delivery of features, services, and content led to utilization (+2%) and satisfaction (NPS +5%) over projections.
+• Launched the digital ad campaign to manage content and channel distribution working with marketing, analytics, and strategic partners (Fitbit and AARP). Efforts resulted in the acquisition of 750K members.
+• Created a media portal to address COVID restrictions, providing access to 12K virtual and live-streaming classes from multiple content providers to help members maintain health goals.
 
 Developer advocacy program
 • Saved $1M annually by consolidating 100+ engineering activities into 6 cohesive DevOps programs, optimizing resource allocation, and streamlining development pipelines under a new engineering org structure.
 • Deployed Stack Overflow for Teams and developed processes to build a scalable knowledge base for the growing engineering department.
-• Guided 5 pilot teams to switch from an homegrown CI/CD pipeline to Helm charts and GitHub actions, which reduced cycle times from an average of 2 weeks to 1.5 days.
+• Transitioned 5 pilot teams to switch from a homegrown CI/CD pipeline to Helm charts and GitHub actions, which lowered cycle times from an average of 2 weeks to 1.5 days.
 
 PMO leadership team
-• Led a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams, continuously optimizing collaboration and communication.
+• Headed a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams, continuously optimizing collaboration and communication.
 • Ensured alignment between SDLC, business processes, and Agile delivery by establishing and maintaining consistent onboarding processes, centralized documentation, teaming opportunities, and feedback collection.
 
 Box
@@ -42,7 +42,7 @@ Technical Program Manager
 April 2018 – December 2018
 Hardware engineering program launch
 • Established Box’s centralized hardware engineering program to consolidate and standardize the management of 30+ hardware configurations across 50+ services.
-• Analyzed and initiated a $2M savings opportunity for Box, reconfiguring hardware to create a new storage SKU that performed 2x faster at 25% less TCO.
+• Identified and realized a $2M savings opportunity for Box, reconfiguring hardware to create a new storage solution that performed 2x faster at 25% less TCO.
 • Tripled hardware evaluation capacity by shifting the testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners, leading to 25% quicker decision-making.
 
 MZ (formerly Machine Zone)
@@ -50,14 +50,14 @@ Palo Alto CA
 Senior Technical Program Manager
 June 2016 – March 2018
 Application resilience testing
-• Spearheaded the CTO initiative of production resiliency testing for MZ games, encompassing 15 services and 40 datastores serving up to 40K concurrent users and daily revenues of $1.5M.
+• Spearheaded the CTO initiative of production resiliency testing for MZ games, encompassing 15 services and 40 data stores serving up to 40K concurrent users and daily revenues of $1.5M.
 • Managed the design and development for application and data testing, coordinating support resources and companywide communications for live site testing.
 • Built and executed a roadmap for application and infrastructure improvements, increasing availability from 97.0% to 99.0% and preserving $750K/month.
 
 Data analytics services launch
 • Initiated and executed an executive initiative to deploy a data analytics pod to enrich data collection and analytical capabilities. The pod increased capacity, security, and efficiency in handling data feeds, pipeline services, data stores, and reporting toolsets.
 • Orchestrated the design, acquisition, and deployment of 160 cabinets of hardware and applications. The technology stack included Hadoop, Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau.
-• Oversaw the migration of 120+ datasets, 200+ workloads, and 100+ pipeline jobs, resulting in a seamless transition that reduced data processing time by 30% and enhanced data accuracy.
+• Directed the migration of 120+ datasets, 200+ workloads, and 100+ pipeline jobs, resulting in a seamless transition that lowered data processing time by 30% and enhanced data accuracy.
 
 CERTIFICATIONS
 Project Management Institute - Project Management Professional PMP (1392223) (expired July 2020)
