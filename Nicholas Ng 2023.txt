@@ -1,0 +1,90 @@
+Nicholas Ng
+phone: (510) 333 6355
+email: nicholas@nicholasng.me
+linkedin: linkedin.com/in/nicholasngtpm
+location: San Francisco Bay Area
+
+EXPERIENCE
+Apple
+San Francisco CA
+Staff Program Manager
+September 2022 – May 2023
+Core Data Management - World Wide Sales
+• Managed global product roadmap and service requests for Apple sales by implementing and maintaining Data Governance and Master Data Management (MDM) systems. 
+• Streamlined request process, formalized requirements, and narrowed feature request scope to reduce backlog by 33% and improve delivery time by 25%. 
+• Facilitated recurring global forums to communicate new product features and policy decisions to the sales organization.
+
+King Games
+San Francisco CA
+Technical Program Manager
+September 2021 – August 2022
+Candy Crush VIP and Loyalty Program
+• Directed technical launch of rewards site, collaborating with Candy Crush, loyalty, UX/UI, and engineering teams to enhance player engagement and retention through a digital storefront, exclusive player content, and dashboarding features.
+• Exceeded projections with the 9-month pilot: $400K monthly bookings (+10%), 70K unique monthly visitors (+25% return rate), and 63K reward redemptions (+20% conversion).
+• Developed a comprehensive program dashboard that integrated multiple data sources with a visualization application to track participant KPIs. The resulting data helped inform marketing and product decisions, leading to a consistent monthly 10% increase in engagement metrics (including NPS, visits, and time on site).
+
+Rally Health
+San Francisco CA
+Lead Technical Program Manager
+January 2019 – September 2021
+Medicare Fitness product 
+• Led the successful launch of the Medicare fitness program, generating $215M in enrollment revenue in the first year.
+• Introduced a greenfield fitness application, overseeing 15+ cross-functional teams. Delivery of features, services, and content led to utilization (+2%) and satisfaction (NPS +5%) over projections.
+• Launched digital ad campaign to manage content and channel distribution with marketing, analytics, and strategic partners (Fitbit and AARP). Efforts resulted in the acquisition of 750K members.
+• Developed a media portal to address COVID restrictions, providing members access to over 12,000 virtual and live-streaming classes from multiple content providers, enabling them to maintain their health goals.
+
+Developer advocacy program
+• Saved $1M annually by consolidating 100+ engineering activities into six cohesive DevOps programs, optimizing resource allocation, and streamlining development pipelines under a new engineering org structure.
+• Deployed Stack Overflow for Teams and developed processes to build a scalable knowledge base for the 500+ engineering department.
+• Transitioned five pilot teams to switch from a homegrown CI/CD pipeline to Helm charts and GitHub actions, which lowered cycle times from an average of 2 weeks to 1.5 days.
+
+PMO leadership team
+• Headed a TPM practices committee that defined roles and responsibilities between product, engineering, and PMO teams, continuously optimizing collaboration and communication.
+• Ensured alignment between SDLC, business processes, and Agile delivery by establishing and maintaining consistent onboarding processes, centralized documentation, teaming opportunities, and feedback collection.
+
+Box
+Redwood City CA
+Technical Program Manager
+April 2018 – December 2018
+Hardware engineering program
+• Established Box’s centralized hardware engineering program to consolidate and standardize the management of 30+ hardware configurations across 50+ services.
+• Identified and realized a $2M savings opportunity for Box, reconfiguring hardware to create a new storage solution that performed 2x faster at 25% less TCO.
+• Tripled hardware evaluation capacity by shifting the testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners, leading to 25% quicker decision-making.
+
+MZ (formerly Machine Zone)
+Palo Alto CA
+Senior Technical Program Manager
+June 2016 – March 2018
+Application resilience testing
+• Headed CTO initiative for production resiliency testing of 15 services and 40 data stores for MZ games, serving up to 40K concurrent users and generating daily revenues of $1.5M.
+• Managed design and development for application and data testing, coordinated support resources, and facilitated companywide communications for live site testing.
+• Developed and executed a roadmap for application and infrastructure enhancements, increasing availability from 97.0% to 99.0% and saving $750K monthly.
+
+Data analytics services launch
+• Spearheaded and implemented an executive initiative to deploy a data analytics pod, boosting data collection and analytical capabilities while enhancing capacity, security, and efficiency in handling data feeds, pipeline services, data stores, and reporting toolsets.
+• Designed, acquired, and deployed 160 cabinets of hardware and applications, utilizing Hadoop, Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, Kibana, and Tableau in the technology stack.
+• Led the seamless migration of 120+ datasets, 200+ workloads, and 100+ pipeline jobs, resulting in a 30% reduction in data processing time and improved data accuracy.
+
+CERTIFICATIONS
+Project Management Institute - Project Management Professional PMP (1392223) (expired July 2020)
+AXELOS - ITIL V3 Foundations
+
+SKILLS
+•	Program management
+•	Portfolio management
+•	Product management
+•	SDLC
+•	Agile leadership
+•	Stakeholder management
+•	CI/CD
+•	DevOps/SRE
+•	Cloud computing
+•	Data science
+•	Hardware/datacenter
+•	System design
+•	KPI tracking
+•	Roadmap management
+•	Budget management
+
+ EDUCATION
+ University of California at Berkeley - B.A. Economics
