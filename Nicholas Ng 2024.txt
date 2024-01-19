@@ -16,7 +16,7 @@ Core Data Management - World Wide Sales
 
 King Games
 San Francisco CA
-Technical Program Manager
+Senior Technical Program Manager
 September 2021 – August 2022
 Candy Crush VIP and Loyalty Program
 • Directed technical launch of rewards site, collaborating with Candy Crush, loyalty, UX/UI, and engineering teams to enhance player engagement and retention through a digital storefront, exclusive player content, and dashboarding features.
@@ -44,7 +44,7 @@ PMO leadership team
 
 Box
 Redwood City CA
-Technical Program Manager
+Senior Technical Program Manager
 April 2018 – December 2018
 Hardware engineering program
 • Established Box’s centralized hardware engineering program to consolidate and standardize the management of 30+ hardware configurations across 50+ services.
