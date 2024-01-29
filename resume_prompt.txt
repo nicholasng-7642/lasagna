@@ -11,6 +11,14 @@ Speaking of my technical skills, I've honed them over the years in diverse setti
 My experience includes handling significant budgets, such as exceeding $1 million for product launches, and generating substantial revenue gains, as evidenced by the $215 million generated during the Medicare Fitness program launch.
 In summary, my journey as a Technical Program Manager reflects a unique combination of soft skills, such as leadership, adaptability, and collaboration, that have consistently complemented my robust technical skills. I believe this blend positions me as a valuable asset to any team or organization, capable of not only driving successful project outcomes but also fostering a positive and productive work environment."
 
+Analyze this JD
+I'm applying for a senior technical program manager position in the tech industry and would like to optimize my resume for ATS screening. I've had issues in the past with my resume not getting picked up by ATS systems, possibly due to formatting or incorrect keyword usage. Can you analyze the job description and suggest the most important keywords and phrases that I should include in my resume to ensure it passes the ATS screening?
+or
+I'm applying for [Job Title] at [Company Name] and I want to ensure my resume is optimized for ATS screening. Here's the job description: [Paste the full job description here]. Could you analyze the job description and extract the key skills, experiences, and qualifications that are most important? Additionally, if I provide my current resume, can you suggest how to tailor it to align with these key elements from the job description?
+or 
+Please review the following job description and identify the key skills, qualifications, and action verbs that are most relevant for this position. Highlight the specific keywords and phrases that an ATS is likely to scan for. Additionally, provide suggestions on how these keywords can be effectively incorporated into a resume to demonstrate alignment with the job requirements and increase the chances of passing through the ATS filters.
+
+
 Rate my technical ability:
 as a technical program manager recruiter, based on my resume, as compared to other technical program managers in Silicon Valley, rate my technical knowledge from 1 to 10
 
