@@ -26,7 +26,7 @@ Developer advocacy program
 • Jira, Confluence, AWS, GitHub, K8 deployed in AWS, Splunk, Terraform, AWS Fargate, Jenkins, Artifactory, AWS RDS
 
 PMO leadership team
-• 
+•
 
 Box
 Redwood City CA
