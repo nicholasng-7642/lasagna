@@ -15,7 +15,7 @@ Analyze this JD
 I'm applying for a senior technical program manager position in the tech industry and would like to optimize my resume for ATS screening. I've had issues in the past with my resume not getting picked up by ATS systems, possibly due to formatting or incorrect keyword usage. Can you analyze the job description and suggest the most important keywords and phrases that I should include in my resume to ensure it passes the ATS screening?
 or
 I'm applying for [Job Title] at [Company Name] and I want to ensure my resume is optimized for ATS screening. Here's the job description: [Paste the full job description here]. Could you analyze the job description and extract the key skills, experiences, and qualifications that are most important? Additionally, if I provide my current resume, can you suggest how to tailor it to align with these key elements from the job description?
-or 
+or
 Please review the following job description and identify the key skills, qualifications, and action verbs that are most relevant for this position. Highlight the specific keywords and phrases that an ATS is likely to scan for. Additionally, provide suggestions on how these keywords can be effectively incorporated into a resume to demonstrate alignment with the job requirements and increase the chances of passing through the ATS filters.
 
 
@@ -23,24 +23,24 @@ Rate my technical ability:
 as a technical program manager recruiter, based on my resume, as compared to other technical program managers in Silicon Valley, rate my technical knowledge from 1 to 10
 
 What are my strengths and weaknesses:
-As a recruiter who reviews 100 resumes a day, what does a 5-6 second scan of my resume tell you about my strengths and weaknesses for a generic TPM role? 
+As a recruiter who reviews 100 resumes a day, what does a 5-6 second scan of my resume tell you about my strengths and weaknesses for a generic TPM role?
 
 What are my weaknesses from a technical aspect:
 What are my perceived weaknesses from a technical standpoint based on this resume?
 
 Resume/experience fit:
-1. You are a recruiter for the position going through all the applicants.  Based on my resume and that job description 1. what is my fit for the role on a scale from 0 to 10 with 10 being the best and 2. what is your guess of my percentile among applicants?  I will provide my resume first then the job description. Do you understand? 
+1. You are a recruiter for the position going through all the applicants.  Based on my resume and that job description 1. what is my fit for the role on a scale from 0 to 10 with 10 being the best and 2. what is your guess of my percentile among applicants?  I will provide my resume first then the job description. Do you understand?
 2. Here is the job description from a hiring manager in engineering looking for a TPM. Based on my resume, what is my fit on a scale from 1-10 with 10 being a great fit?  Here is the job description:
 
 Track changes in the resume:
-List out the differences between my original resume and your suggested draft in table format with two columns: original and updated. Be specific and list out everything that was changed down to the exact wording.  
+List out the differences between my original resume and your suggested draft in table format with two columns: original and updated. Be specific and list out everything that was changed down to the exact wording.
 
 What are the most important things for the role?
-You are a technical recruiter with 10 years of experience and are looking for a first-round candidate. You are pitching the requirements and qualifications on a 30-second voicemail, highlight the 3 most important things for this job:  Here is the job description: 
+You are a technical recruiter with 10 years of experience and are looking for a first-round candidate. You are pitching the requirements and qualifications on a 30-second voicemail, highlight the 3 most important things for this job:  Here is the job description:
 
 Checking my resume changes from GPT:
 You are an editor for the NY Times. List out the line-by-line differences between my original resume and your suggested draft in table format with four columns: original, updated, type of change (add, remove, edit), and reason for change. In the reason for change column, be specific about the impact (e.g. the <insert type of change> was made because it highlights your <insert skill>)
- 
+
 Based on the experience section in my resume, create a list of skills to present in the skills section. Present it in a table form with 4 columns: skill, type of skill (technical/languages/soft), how to present, and which part of my experience it's derived from. Do you understand?
 Based on the experience section in your resume, I've extracted the relevant skills and organized them into a table with four columns as requested. Please note that I've made educated guesses about the types of skills and how to present them based on the context you provided.
 
