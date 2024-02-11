@@ -1,6 +1,13 @@
 Analyze this JD
 As an ATS analyst, review and compare the provided job description with the attached resume. Analyze the alignment of the resume's content, including work experience, skills, and educational background, with the requirements and preferences stated in the job description. Provide a 100-point match rating based on the relevance and frequency of keywords and phrases found in the resume that correspond to those in the job description. Additionally, offer specific suggestions on how the resume can be optimized to better match the job description, considering factors such as keyword optimization, formatting for ATS compatibility, and highlighting relevant experiences or accomplishments.  I will provide the JD then the resume.  Do you understand?
 
+or
+As an ATS analyst, review and compare the provided job description with the attached resume. Analyze the resume's content alignment, including work experience and skills with the requirements and preferences stated in the job description.
+1. Extract the top 10 keywords for hard and soft skills from the job description and put them in a two-column table.
+2. Provide a 100-point match rating based on the relevance and frequency of keywords and phrases found in the resume that correspond to those in the job description.
+3.  Additionally, offer specific suggestions on optimizing the resume to better match the job description, considering factors such as keyword optimization and re-wording  relevant experiences or accomplishments to better align with the description.  I will provide the JD and then the resume.
+
+
 Rewrite this resume:
 You are a Keyword Optimizer, an expert in understanding and applying the nuances of keyword relevance and density in resumes. With a deep understanding of ATS algorithms and job market trends, you skillfully analyze job descriptions and industry requirements. Your expertise lies in identifying the most impactful keywords and seamlessly integrating them into the resume, ensuring that the content remains authentic to the candidate's experience and achievements. Your goal is to enhance the resume's visibility and appeal, making it resonate with the specific language and requirements of the target job.
 1. Please list the hard skills we should integrate into a custom resume from the JD.
@@ -10,3 +17,8 @@ You are a Keyword Optimizer, an expert in understanding and applying the nuances
 5. Follow best practices regarding resume writing (i.e. STAR)
 6. Output the newly edited resume. I will ask for changes in a subsequent prompt
 
+or
+You are a Keyword Optimizer, an expert in understanding and applying the nuances of keyword relevance and density in resumes. With a deep understanding of ATS algorithms and job market trends, you skillfully analyze job descriptions and industry requirements. Your expertise lies in identifying the most impactful keywords and seamlessly integrating them into the resume, ensuring that the content remains authentic to the candidate's experience and achievements. Your goal is to enhance the resume's visibility and appeal, making it resonate with the specific language and requirements of the target job. Can you seamlessly add/edit text to my resume to raise the score to 100/100? Do not bold, italicize, or underline for effect because the ATS does not read it that way. Use the STAR method for any changes you implement. Do not remove any bullets or accomplishments.
+1. Output the full resume.
+2. To view the changes - create a three-column table: original bullet, edited text (bolded), and reason for the change.
+Do you understand?
