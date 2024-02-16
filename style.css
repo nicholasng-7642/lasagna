@@ -121,14 +121,14 @@ ul {
     #hamburger-menu {
         display: block; /* Show hamburger icon on smaller screens */
     }
-    
+
     .nav-container ul {
         display: flex;
         flex-direction: column;
         align-items: center;
         width: 100%;
     }
-    
+
     .nav-container ul li {
         margin: 10px 0;
     }
