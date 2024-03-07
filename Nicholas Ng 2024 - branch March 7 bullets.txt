@@ -1,0 +1,102 @@
+﻿Nicholas Ng
+email: nicholas@nicholasng.me        phone: (510) 333-6355
+linkedin: linkedin.com/in/nicholasngtpm        location: San Francisco, CA
+
+
+EXPERIENCE
+Apple        San Francisco, CA
+Staff Program Manager        September 2022 – May 2023
+• Core Data Management – Worldwide Sales
+	• Managed global roadmap, focusing on aligning sales strategies and product management, creating processes, and deploying data ingestion features that resulted in a 15% increase in sales efficiency and accelerating product time-to-market by 20%.
+	• Streamlined request process, established concise requirements, and refined feature scope, cutting backlog by 33% and enhancing delivery speed by 25%.
+	• Led recurring global forums to brief sales leadership on new product features and policies, fostering enhanced collaboration across functions and time zones.
+
+
+King Games        San Francisco, CA
+Senior Technical Program Manager        September 2021 – August 2022
+• Candy Crush VIP and Loyalty Program
+	• Directed the program application’s technical launch by leading an international team across Candy Crush, loyalty programs, UX/UI, product management, and engineering, boosting player engagement and retention through a new bonus system, digital storefront, exclusive content, and dashboarding features.
+	• Exceeded pilot projections through strategic marketing and program enhancements, achieving $400K in monthly bookings (+10%), 70K unique visitors (+25% return rate), and 63K reward redemptions (+20% conversion).
+	• Developed a detailed program dashboard to monitor participant KPIs from various data sources, guiding adaptive roadmap and content strategies that resulted in a 10% monthly boost in engagement metrics, including NPS, visits, and time on site.
+
+
+Rally Health        San Francisco, CA
+Lead Technical Program Manager        January 2019 – September 2021
+• Medicare Fitness product launch
+	• Launched the UHC Medicare fitness program, ranking among the top 10 initiatives and generating $215M in first-year enrollment revenue.
+	• Launched a multiplatform fitness application, overseeing 15+ cross-functional teams. Delivery of features, services, and content led to utilization (+2%) and satisfaction (NPS +5%) over Programions.
+	• Directed digital ad campaign content and distribution strategies with marketing, analytics, and commercial partners Fitbit and AARP, securing 750K new members.
+	• Implemented a media portal to address COVID restrictions, providing members access to 12,000+ virtual and streaming classes and re-establishing utilization from 0% to 20%.
+
+
+• Developer advocacy program
+	• Saved $1M annually by consolidating 100+ engineering activities into five unified DevOps programs, optimizing resources, and streamlining development pipelines.
+	• Optimized communication and workflow among 500+ engineers by deploying Stack Overflow for Teams, reducing resolution times by 30% and promoting knowledge sharing and collaboration.
+	• Streamlined development processes by transitioning five pilot teams from a homegrown CI/CD pipeline to Helm charts and GitHub actions, reducing cycle times from 2 weeks to 1.5 days.
+
+
+________________
+
+
+• PMO leadership team
+	• Championed a TPM practices committee to establish roles and responsibilities, create processes, generate artifacts, and enhance collaboration and communication across product management, software engineering, and PMO leadership and teams.
+	• Aligned teams on SDLC, business processes, and Agile delivery by standardizing onboarding, centralizing documentation, and facilitating team collaboration and feedback.
+
+
+Box        Redwood City, CA
+Senior Technical Program Manager        April 2018 – December 2018
+• Hardware engineering program launch
+	• Established Box’s centralized hardware engineering program, unifying the management of 30+ hardware configurations across 50+ services.
+	• Identified and capitalized on a $2M savings for Box by reengineering hardware for a storage solution that doubled performance at 25% lower TCO.
+	• Increased solution decision time by 25% through tripling hardware evaluation capacity by delegating testing (DVT, PVT), analysis, and reporting to manufacturing and implementation partners
+
+
+Machine Zone        Palo Alto, CA
+Senior Technical Program Manager        June 2016 – March 2018
+• Application resilience testing
+	• Led CTO initiative to bolster production resiliency, testing 15 services and 40 data stores for MZ games, serving 3M daily active users and monthly revenues of $45M.
+	• Designed and implemented failure injection testing, coordinated support resources, and led company-wide communications.
+	• Directed the roadmap for application and infrastructure improvements, boosting availability from 97.0% to 99.0% and achieving $750K in monthly savings.
+
+
+• Data analytics services launch
+	• Led the launch of a data analytics pod under an executive initiative, enhancing data collection, analysis, capacity, security, and efficiency across the data management spectrum.
+	• Engineered and deployed a 160-cabinet hardware and software suite, incorporating a comprehensive technology stack including Hadoop, Vertica, Druid, Kafka, Spark, Storm, Kylo, Elasticsearch, and Kibana.
+	• Led the seamless migration of 120+ datasets, 200+ workloads, and 100+ pipeline jobs, achieving a 30% cut in data processing time and enhanced data accuracy.
+
+
+CERTIFICATIONS
+Program Management Institute - Program Management Professional PMP (1392223) (expired July 2020)
+AXELOS - ITIL V3 Foundations
+
+
+SKILLS
+• Program management
+• Portfolio management
+• Product management
+• Stakeholder management
+• Technical architecture
+• Change management
+• Agile/Scrum leadership
+• Jira/Confluence
+• CI/CD
+• SDLC
+• Data visualization
+• Quality assurance
+• Vendor management
+• DevOps/SRE
+• Cloud computing AWS
+• Data science
+• Hardware/datacenter
+• Technical writing
+• Master data management
+• System design
+• KPI tracking
+• Roadmap management
+• Budget management
+• Risk management
+• Developer tools
+• API development
+
+EDUCATION
+University of California at Berkeley - B.A. Economics
