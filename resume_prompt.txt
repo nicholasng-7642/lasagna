@@ -1,3 +1,4 @@
+Nicholas Ng - my own changing
 Analyze this JD
 As an ATS analyst, review and compare the provided job description with the attached resume. Analyze the alignment of the resume's content, including work experience, skills, and educational background, with the requirements and preferences stated in the job description. Provide a 100-point match rating based on the relevance and frequency of keywords and phrases found in the resume that correspond to those in the job description. Additionally, offer specific suggestions on how the resume can be optimized to better match the job description, considering factors such as keyword optimization, formatting for ATS compatibility, and highlighting relevant experiences or accomplishments.  I will provide the JD then the resume.  Do you understand?
 
@@ -22,3 +23,20 @@ You are a Keyword Optimizer, an expert in understanding and applying the nuances
 1. Output the full resume.
 2. To view the changes - create a three-column table: original bullet, edited text (bolded), and reason for the change.
 Do you understand?
+
+
+Jeff Su - March 19
+1. Austin Belcak is an experienced career coach with over 20 years of experience helping job seekers land jobs.  He just published an article sharing the est resue tips for job seekers after analyzing more than 125,000 resumes (https://cultivatedculture.com/resume-statistics/) 
+No additional action needed. If you understand, respond with "yes".
+
+2. I will now share the job description of the role I'm applying for. No additional action is needed. If you understand respond with "yes"
+Here's the job description:
+
+3. based on Austin's article and the role I'm applying for, your task is to analyze my resume and give me 10 specific recommendations on how I can tailor my resume for the target role.  Be as detailed as possible.  Let's think step by step. 
+Here is my resume:
+
+4. you are an expert resume writer with 20 years of experience. I will share a bullet point with you from my resume. Your task is to rewrite the bullet point using this structure "Accomplished X by the measure Y that resulted in Z" 
+Use compelling language and keep the bullet point to within 50 words.  
+Here is my bullet point:
+
+
